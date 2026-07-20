@@ -7,20 +7,31 @@
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
     <lastBuildDate>Mon, 13 Jul 2026 09:00:00 -0700</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 09:00:00 -0700</pubDate>
+    <ttl>60</ttl>
+    <generator>Kronos build_rss.py</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <category>Fusion Energy</category>
+    <category>Clean Energy</category>
     <atom:link href="https://www.kronosfusionenergy.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.kronosfusionenergy.com/logo.png</url>
+      <title>Kronos Fusion Energy — News</title>
+      <link>https://www.kronosfusionenergy.com/news</link>
+    </image>
     <item>
-      <title>The Horizon: Finalizing Vendor Contracts for Physical Construction</title>
+      <title>The Horizon: Toward Gate-Stage Hardware</title>
       <link>https://www.kronosfusionenergy.com/news/50-the-horizon-finalizing-vendor-contracts-for-physical-construction</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/50-the-horizon-finalizing-vendor-contracts-for-physical-construction</guid>
       <pubDate>Fri, 10 Jul 2026 09:00:00 -0700</pubDate>
-      <description>As 2026 closes, Kronos moves to finalize vendor contracts for physical construction - from digital design to first steel.</description>
+      <description>As 2026 closes, Kronos looks ahead to its gated program — engaging vendors and the supply chain on the path from a validated design toward first hardware.</description>
     </item>
     <item>
-      <title>Load-Following Capability Validated for Grid Integration</title>
+      <title>Load-Following Capability Modeled for Grid Integration</title>
       <link>https://www.kronosfusionenergy.com/news/49-load-following-capability-validated-for-grid-integration</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/49-load-following-capability-validated-for-grid-integration</guid>
       <pubDate>Tue, 23 Jun 2026 09:00:00 -0700</pubDate>
-      <description>Kronos validates load-following capability for grid integration ahead of commercial deployment.</description>
+      <description>Kronos models load-following capability for grid integration in its design point, ahead of the gated program.</description>
     </item>
     <item>
       <title>CapEx Reductions Mapped Through Modular Manufacturing</title>
@@ -30,18 +41,18 @@
       <description>Kronos finalizes the modular-manufacturing logistics that drive the CapEx reductions in its LCOE model.</description>
     </item>
     <item>
-      <title>Microsecond AI Control Overcomes Vertical Displacement Events</title>
+      <title>Microsecond AI Control Modeled for Vertical Displacement Events</title>
       <link>https://www.kronosfusionenergy.com/news/47-microsecond-ai-control-overcomes-vertical-displacement-events</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/47-microsecond-ai-control-overcomes-vertical-displacement-events</guid>
       <pubDate>Tue, 12 May 2026 09:00:00 -0700</pubDate>
-      <description>Kronos demonstrates that its microsecond AI digital twin can mitigate vertical displacement events (VDEs).</description>
+      <description>Simulations show the microsecond AI digital twin can mitigate vertical displacement events (VDEs) in the design.</description>
     </item>
     <item>
-      <title>Active Blanket Architecture and Tritium Multiplier Validation</title>
+      <title>Center-Stack Neutron Shield and Fluence Budget Analyzed</title>
       <link>https://www.kronosfusionenergy.com/news/46-active-blanket-architecture-and-tritium-multiplier-validation</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/46-active-blanket-architecture-and-tritium-multiplier-validation</guid>
       <pubDate>Tue, 21 Apr 2026 09:00:00 -0700</pubDate>
-      <description>2026 simulation campaigns validate the active blanket architecture and tritium-multiplier performance.</description>
+      <description>2026 simulation campaigns analyze the shielded center-stack neutron-fluence budget for the low-neutron design — no breeding blanket required.</description>
     </item>
     <item>
       <title>The 20 K Closed-Cycle Cryogenic Network Design Locked</title>
@@ -58,11 +69,11 @@
       <description>Kronos publishes its 1-D thermal-gradient (1700 C plasma edge) data and full vacuum-vessel structural analysis.</description>
     </item>
     <item>
-      <title>24.6 T Peak On-Axis Field: Conductor Survivability Confirmed</title>
+      <title>24.6 T Peak Conductor Field: Survivability Analyzed</title>
       <link>https://www.kronosfusionenergy.com/news/43-30-tesla-on-axis-field-conductor-survivability-confirmed</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/43-30-tesla-on-axis-field-conductor-survivability-confirmed</guid>
       <pubDate>Tue, 17 Feb 2026 09:00:00 -0800</pubDate>
-      <description>The 2026 audit confirms REBCO HTS magnet conductor survivability at the 24.6 T peak on-axis field (24.4 T demonstrated single-coil).</description>
+      <description>The 2026 audit analyzes REBCO HTS magnet conductor survivability at the 24.6 T peak conductor field — just above the 24.4 T demonstrated single-coil, with a 1.59× strain margin.</description>
     </item>
     <item>
       <title>The 2026 Tech Audit Presentation Delivered</title>
@@ -79,11 +90,11 @@
       <description>Kronos transitions out of conceptual R&amp;D into the pre-commercial validation stage for the S.M.A.R.T. generator family.</description>
     </item>
     <item>
-      <title>The Autonomous AI Immune System Operationalized</title>
+      <title>The Autonomous AI Stability System Detailed</title>
       <link>https://www.kronosfusionenergy.com/news/40-the-autonomous-ai-immune-system-operationalized</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/40-the-autonomous-ai-immune-system-operationalized</guid>
       <pubDate>Mon, 03 Nov 2025 09:00:00 -0800</pubDate>
-      <description>Kronos operationalizes its autonomous AI stability ('immune') system for real-time plasma control.</description>
+      <description>Kronos details the design of its autonomous AI stability ('immune') system for real-time plasma control.</description>
     </item>
     <item>
       <title>Levelized Cost of Energy (LCOE) Model Details FOAK to NOAK</title>
@@ -275,11 +286,11 @@
       <description>Dr. Paul Weiss, holder of the Fred Kavli Chair in NanoSystems Sciences, formally takes the helm of Material Sciences &amp; Nano Technology.</description>
     </item>
     <item>
-      <title>Strategic Tritium Breeding Program Initiated</title>
+      <title>Staged Fuel-Cycle Strategy Initiated</title>
       <link>https://www.kronosfusionenergy.com/news/12-strategic-tritium-breeding-program-initiated</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/12-strategic-tritium-breeding-program-initiated</guid>
       <pubDate>Wed, 22 Feb 2023 09:00:00 -0800</pubDate>
-      <description>Kronos launches its Strategic Tritium Breeding program to address the global fusion fuel bottleneck, bridging near-term operation toward the long-term low-neutron fuel goal.</description>
+      <description>Kronos launches its staged fuel-cycle strategy — bridging a brief deuterium–tritium commissioning stage toward low-neutron deuterium–helium-3 operation, with helium-3 bred in situ via catalyzed D–D (no breeding blanket).</description>
     </item>
     <item>
       <title>General Robert 'Pat' White Assumes Role as CEO</title>
