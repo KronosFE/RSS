@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 19:29:39 -0700</lastBuildDate>
-    <pubDate>Thu, 17 Sep 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:15:56 -0700</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,30 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Dr. Carl Weggel joins as Founding Partner and Chief Scientist</title>
+      <link>https://www.kronosfusionenergy.com/news/carl-weggel-founding-partner-chief-scientist</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/carl-weggel-founding-partner-chief-scientist</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Team Update</category>
+      <description>Dr. Carl Weggel joined Kronos in 2022 as a Founding Partner and Chief Scientist, leading the company's S.M.A.R.T. magnet-design effort.</description>
+    </item>
+    <item>
+      <title>The Next Gate: From Simulation to Hardware</title>
+      <link>https://www.kronosfusionenergy.com/news/toward-gate-stage-hardware</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/toward-gate-stage-hardware</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Milestone</category>
+      <description>Most of what Kronos has closed so far lives in simulation and analysis: the digital twin, gyrokinetic transport runs, and structural and neutronic models built against the frozen breeder and burner design points.</description>
+    </item>
+    <item>
+      <title>Recompute it yourself: Kronos validators go live in the browser</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-validators-live</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-validators-live</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>Kronos took the claims underlying the De-risking Register and made each one a live, browser-based validator — a card that recomputes the claim from its stated inputs, in front of the reader.</description>
+    </item>
     <item>
       <title>Design locked: center-stack shielding geometry</title>
       <link>https://www.kronosfusionenergy.com/news/design-lock-center-stack-shielding</link>

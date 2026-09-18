@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/carl-weggel-founding-partner-chief-scientist</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-18T06:00:00-07:00</news:publication_date>
+      <news:title>Dr. Carl Weggel joins as Founding Partner and Chief Scientist</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/toward-gate-stage-hardware</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-18T06:00:00-07:00</news:publication_date>
+      <news:title>The Next Gate: From Simulation to Hardware</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-validators-live</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-18T06:00:00-07:00</news:publication_date>
+      <news:title>Recompute it yourself: Kronos validators go live in the browser</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/design-lock-center-stack-shielding</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -22,30 +46,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-17T06:00:00-07:00</news:publication_date>
       <news:title>Structural: the vacuum vessel's 1-D thermal profile</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-centrepost-structural-margin</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-16T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: centrepost structural margin passes at 181 MPa</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/centrepost-stress-passes-with-margin</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-16T06:00:00-07:00</news:publication_date>
-      <news:title>Centrepost Stress Passes With Margin at 181 MPa</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/burner-design-point-published-tandem-mirror</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-16T06:00:00-07:00</news:publication_date>
-      <news:title>Burner Design Point Published: The D–³He Tandem-Mirror Reference Case</news:title>
     </news:news>
   </url>
 </urlset>
