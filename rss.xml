@@ -4,26 +4,50 @@
   <title>Kronos Fusion Energy</title>
   <link>https://www.kronosfusionenergy.com/</link>
   <atom:link href="https://www.kronosfusionenergy.com/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>Open papers, preprints, deposits, and whitepapers from Kronos Fusion Energy — the fusion company that shows its work. Conceptual design and simulation study; no machine has been built.</description>
+  <description>Open papers, preprints, deposits, and whitepapers from Kronos Fusion Energy — a family-owned American fusion company that shows its work. A published, benchmarked physics basis across the Hyperion breeder and the Aegis / MetroVolt generator; construction of the breeder begins 2027.</description>
   <language>en-us</language>
   <copyright>&#169; 2026 Kronos Fusion Energy</copyright>
-  <lastBuildDate>Fri, 01 Aug 2026 00:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 12:00:00 GMT</lastBuildDate>
   <ttl>1440</ttl>
 
   <item>
+    <title>KODEX &#8212; 35 open-source AI/ML fusion codes released</title>
+    <link>https://pypi.org/project/kronos-fusion-ml/</link>
+    <guid isPermaLink="true">https://pypi.org/project/kronos-fusion-ml/</guid>
+    <pubDate>Sat, 12 Sep 2026 09:00:00 GMT</pubDate>
+    <description>KODEX, the Kronos Family of Codes: 35 benchmarked, open-source AI/ML surrogate and quantum codes spanning turbulence and transport, magnets and quench, neutronics, materials, control, and fuel cycle. Every one is trained and tested on open data with fixed seeds and calibrated uncertainty, and knows when to abstain. Open-source and citable &#8212; pip install kronos-fusion-ml.</description>
+  </item>
+
+  <item>
+    <title>115 open papers, permanently archived with DOIs</title>
+    <link>https://www.kronosfusionenergy.com/publications</link>
+    <guid isPermaLink="true">https://www.kronosfusionenergy.com/publications</guid>
+    <pubDate>Fri, 11 Sep 2026 09:00:00 GMT</pubDate>
+    <description>The complete Kronos corpus &#8212; 115 open-access papers across the Hyperion breeder and the Aegis / MetroVolt generator, each with a permanent DOI and mirrored across Zenodo, OSF, Figshare, and the Internet Archive. Written to be refereed; the flagship series is in submission for peer review.</description>
+  </item>
+
+  <item>
+    <title>The 245-gate Physics De-Risking Register &amp; CGYRO confinement map</title>
+    <link>https://www.kronosfusionenergy.com/open-science</link>
+    <guid isPermaLink="true">https://www.kronosfusionenergy.com/open-science</guid>
+    <pubDate>Thu, 10 Sep 2026 09:00:00 GMT</pubDate>
+    <description>A 245-gate physics de-risking register spanning the breeder and both burners &#8212; each gate a named, dated, reproducible computation. The CGYRO gyrokinetic campaign closes a 16-point confinement map at real electron mass, confirming that negative triangularity suppresses turbulent transport at the breeder operating point (DOI 10.5281/zenodo.22136279).</description>
+  </item>
+
+  <item>
     <title>Paper 1 &#8212; The spherical-tokamak tritium / helium-3 breeder (HYPERION)</title>
-    <link>https://doi.org/10.5281/zenodo.21746157</link>
-    <guid isPermaLink="true">https://doi.org/10.5281/zenodo.21746157</guid>
+    <link>https://www.kronosfusionenergy.com/publications</link>
+    <guid isPermaLink="false">kfe-paper1-hyperion-breeder</guid>
     <pubDate>Fri, 01 Aug 2026 09:00:00 GMT</pubDate>
-    <description>Physics, design, and conditional economics of HYPERION, a compact deuterium-tritium spherical tokamak that breeds tritium, helium-3, and 14 MeV neutrons. Open data and code deposited under CC BY 4.0 (DOI 10.5281/zenodo.21746157). Submitted to IOP; arXiv preprint on posting.</description>
+    <description>Physics and design of HYPERION, a compact deuterium-tritium spherical tokamak that breeds tritium, helium-3, and 14 MeV neutrons. Open access at kronosfusionenergy.com/publications. Submitted to IOP; arXiv preprint on posting.</description>
   </item>
 
   <item>
     <title>Paper 2 &#8212; The D&#8211;&#179;He tandem-mirror generator (Aegis / MetroVolt)</title>
-    <link>https://doi.org/10.5281/zenodo.21746479</link>
-    <guid isPermaLink="true">https://doi.org/10.5281/zenodo.21746479</guid>
+    <link>https://www.kronosfusionenergy.com/publications</link>
+    <guid isPermaLink="false">kfe-paper2-aegis-metrovolt-generator</guid>
     <pubDate>Fri, 01 Aug 2026 09:05:00 GMT</pubDate>
-    <description>The physics of the Kronos generator: a deuterium-helium-3 tandem mirror with direct energy conversion. Physics only. Open data and code deposited under CC BY 4.0 (DOI 10.5281/zenodo.21746479). Submitted to IOP; arXiv preprint on posting.</description>
+    <description>The physics of the Kronos generator: a deuterium-helium-3 tandem mirror with direct energy conversion. Physics only. Open access at kronosfusionenergy.com/publications. Submitted to IOP; arXiv preprint on posting.</description>
   </item>
 
   <item>
@@ -47,7 +71,7 @@
     <link>https://www.kronosfusionenergy.com/whitepapers/KFE-WP003_gain-solved-not-scaled.html</link>
     <guid isPermaLink="true">https://www.kronosfusionenergy.com/whitepapers/KFE-WP003_gain-solved-not-scaled.html</guid>
     <pubDate>Thu, 31 Jul 2026 10:10:00 GMT</pubDate>
-    <description>HYPERION's design gain Q = 3.424 comes from power balance, not from an extrapolated scaling law.</description>
+    <description>HYPERION's design gain Q = 3.076 comes from power balance, not from an extrapolated scaling law.</description>
   </item>
 
   <item>

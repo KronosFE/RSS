@@ -3,3 +3,6 @@ __pycache__/
 # local staging / working folders — never published
 _science_log_staging/
 _news_feed_staging/
+# local build scripts — kept off the public repo (comments reference internal editorial gating)
+build_news_pages_dataset.py
+build_science_log_rss.py
