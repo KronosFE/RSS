@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kronos Fusion Energy — News</title>
+    <link>https://www.kronosfusionenergy.com/news</link>
+    <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
+    <language>en-us</language>
+    <copyright>© 2026 Kronos Fusion Energy</copyright>
+    <lastBuildDate>Thu, 17 Sep 2026 19:29:39 -0700</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 06:00:00 -0700</pubDate>
+    <ttl>60</ttl>
+    <generator>Kronos build_feed.py</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <category>Fusion Energy</category>
+    <atom:link href="https://news.kronosfusionenergy.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.kronosfusionenergy.com/logo.png</url>
+      <title>Kronos Fusion Energy — News</title>
+      <link>https://www.kronosfusionenergy.com/news</link>
+    </image>
+    <item>
+      <title>Design locked: center-stack shielding geometry</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-center-stack-shielding</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-center-stack-shielding</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Design lock: the shield geometry wrapped around the breeder's centrepost — the column carrying 16.84 T at the frozen design point — is now locked to a reference layout.</description>
+    </item>
+    <item>
+      <title>Burner design-point dataset posted for independent reproduction</title>
+      <link>https://www.kronosfusionenergy.com/news/burner-design-point-dataset-posted</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/burner-design-point-dataset-posted</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>The Aegis/MetroVolt D–³He burner design point is now a citable dataset built for independent reproduction.</description>
+    </item>
+    <item>
+      <title>Structural: the vacuum vessel's 1-D thermal profile</title>
+      <link>https://www.kronosfusionenergy.com/news/structural-vacuum-vessel-thermal</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/structural-vacuum-vessel-thermal</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>The vacuum vessel sits between two very different thermal environments — a magnet set held near 20 K, REBCO tape's operating point, on one side, and a burning plasma radiating heat on the other.</description>
+    </item>
+    <item>
+      <title>Gate closed: centrepost structural margin passes at 181 MPa</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-centrepost-structural-margin</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-centrepost-structural-margin</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Gate closed: centrepost structural margin passes.</description>
+    </item>
+    <item>
+      <title>Centrepost Stress Passes With Margin at 181 MPa</title>
+      <link>https://www.kronosfusionenergy.com/news/centrepost-stress-passes-with-margin</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/centrepost-stress-passes-with-margin</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>The centrepost carries the toroidal-field return current through the machine's narrowest cross-section — the column most exposed to combined electromagnetic and thermal load.</description>
+    </item>
+    <item>
+      <title>Burner Design Point Published: The D–³He Tandem-Mirror Reference Case</title>
+      <link>https://www.kronosfusionenergy.com/news/burner-design-point-published-tandem-mirror</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/burner-design-point-published-tandem-mirror</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The companion reference case for the burner line - the low-neutron D-He3 tandem mirror shared by Aegis and MetroVolt - is now public.</description>
+    </item>
+    <item>
+      <title>Priyanca Ford founds Kronos Fusion Energy</title>
+      <link>https://www.kronosfusionenergy.com/news/priyanca-ford-founds-kronos-fusion-energy</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/priyanca-ford-founds-kronos-fusion-energy</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Team Update</category>
+      <description>Kronos Fusion Energy was founded in 2022 by Priyanca Ford, Founder and CEO, who publishes technical work as P. I. Ford. The founding thesis is simple and unchanged: build the spherical-tokamak breeder platform first — tritium, helium-3, and neutron services — and let net electric power follow as a later product line, n…</description>
+    </item>
+    <item>
+      <title>Kronos Enters Pre-Commercial Validation</title>
+      <link>https://www.kronosfusionenergy.com/news/entering-pre-commercial-validation</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/entering-pre-commercial-validation</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Milestone</category>
+      <description>Kronos has entered pre-commercial validation — the stage between a frozen design and a construction start.</description>
+    </item>
+    <item>
+      <title>The physics engine is open: Kronos releases its research toolkit</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-toolkit-released</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-toolkit-released</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>The same physics engine Kronos uses internally to derive its frozen design points is now public: github.com/KronosFE/kronos-toolkit.</description>
+    </item>
+    <item>
+      <title>Design locked: the 20 K cryogenic network, closed-cycle</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-20k-cryogenic-network</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-20k-cryogenic-network</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Design lock: Kronos has frozen the cryogenic architecture that keeps the breeder's REBCO coils superconducting — a closed-cycle network holding the magnet set near 20 K.</description>
+    </item>
+    <item>
+      <title>Breeder design-point dataset live on Zenodo</title>
+      <link>https://www.kronosfusionenergy.com/news/breeder-design-point-dataset-live</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/breeder-design-point-dataset-live</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>The Hyperion breeder's frozen design point is not just a line in a paper — it's a versioned Zenodo deposit you can pull and re-run.</description>
+    </item>
+    <item>
+      <title>Transport: the nonlinear core-turbulence run behind negative triangularity</title>
+      <link>https://www.kronosfusionenergy.com/news/transport-core-turbulence-cgyro</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/transport-core-turbulence-cgyro</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>The negative-triangularity shaping behind the breeder's frozen design point — δ = −0.30 — is a physics claim, and physics claims need a code that resolves turbulence nonlinearly to check them, not just a linear stability estimate.</description>
+    </item>
+    <item>
+      <title>Gate closed: net tritium breeding clears self-sufficiency</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-net-tritium-breeding</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-net-tritium-breeding</guid>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Gate closed: net tritium breeding clears self-sufficiency in the Hyperion breeder platform.</description>
+    </item>
+    <item>
+      <title>Net Tritium Breeding Confirmed Self-Sufficient — TBR ≥ 1.05</title>
+      <link>https://www.kronosfusionenergy.com/news/net-tritium-breeding-confirmed-self-sufficient</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/net-tritium-breeding-confirmed-self-sufficient</guid>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Tritium self-sufficiency comes down to one ratio: local production over consumption across the blanket volume, TBR = (∫_V Σ_T φ dV) / R_fus.</description>
+    </item>
+    <item>
+      <title>Breeder Design Point Published: Hyperion's Q = 3.076 Reference Case</title>
+      <link>https://www.kronosfusionenergy.com/news/hyperion-breeder-design-point-published</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/hyperion-breeder-design-point-published</guid>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The frozen breeder reference case for Hyperion, our spherical-tokamak platform, is now public and re-runnable.</description>
+    </item>
+    <item>
+      <title>The Horizon: Toward Gate-Stage Hardware</title>
+      <link>https://www.kronosfusionenergy.com/news/50-the-horizon-finalizing-vendor-contracts-for-physical-construction</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/50-the-horizon-finalizing-vendor-contracts-for-physical-construction</guid>
+      <pubDate>Fri, 10 Jul 2026 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>As 2026 closes, Kronos looks ahead to its gated program — engaging vendors and the supply chain on the path from a validated design toward first hardware.</description>
+    </item>
+    <item>
+      <title>Load-Following Capability Modeled for Grid Integration</title>
+      <link>https://www.kronosfusionenergy.com/news/49-load-following-capability-validated-for-grid-integration</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/49-load-following-capability-validated-for-grid-integration</guid>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos models load-following capability for grid integration in its design point, ahead of the gated program.</description>
+    </item>
+    <item>
+      <title>Microsecond AI Control Modeled for Vertical Displacement Events</title>
+      <link>https://www.kronosfusionenergy.com/news/47-microsecond-ai-control-overcomes-vertical-displacement-events</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/47-microsecond-ai-control-overcomes-vertical-displacement-events</guid>
+      <pubDate>Tue, 12 May 2026 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Simulations show the microsecond AI digital twin can mitigate vertical displacement events (VDEs) in the design.</description>
+    </item>
+    <item>
+      <title>Center-Stack Neutron Shield and Fluence Budget Analyzed</title>
+      <link>https://www.kronosfusionenergy.com/news/46-active-blanket-architecture-and-tritium-multiplier-validation</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/46-active-blanket-architecture-and-tritium-multiplier-validation</guid>
+      <pubDate>Tue, 21 Apr 2026 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>2026 simulation campaigns analyze the shielded center-stack neutron-fluence budget for the low-neutron design — no breeding blanket required.</description>
+    </item>
+    <item>
+      <title>The 20 K Closed-Cycle Cryogenic Network Design Locked</title>
+      <link>https://www.kronosfusionenergy.com/news/45-the-20k-closed-cycle-cryogenic-network-design-locked</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/45-the-20k-closed-cycle-cryogenic-network-design-locked</guid>
+      <pubDate>Tue, 31 Mar 2026 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos locks the design of its 20 K closed-cycle cryogenic network, eliminating liquid-helium infrastructure from the balance-of-plant.</description>
+    </item>
+    <item>
+      <title>1-D Thermal Gradient and Vacuum Vessel Structural Analysis Published</title>
+      <link>https://www.kronosfusionenergy.com/news/44-1d-thermal-gradient-and-vacuum-vessel-structural-analysis-published</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/44-1d-thermal-gradient-and-vacuum-vessel-structural-analysis-published</guid>
+      <pubDate>Tue, 10 Mar 2026 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos publishes its 1-D thermal-gradient (1700 C plasma edge) data and full vacuum-vessel structural analysis.</description>
+    </item>
+    <item>
+      <title>The 2026 Tech Audit Presentation Delivered</title>
+      <link>https://www.kronosfusionenergy.com/news/42-the-2026-tech-audit-presentation-delivered</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/42-the-2026-tech-audit-presentation-delivered</guid>
+      <pubDate>Tue, 27 Jan 2026 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Kronos delivers its 2026 Tech Audit - a full disclosure of generator physics and engineering.</description>
+    </item>
+    <item>
+      <title>Entering the Pre-Commercial Validation Stage</title>
+      <link>https://www.kronosfusionenergy.com/news/41-entering-the-pre-commercial-validation-stage</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/41-entering-the-pre-commercial-validation-stage</guid>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Kronos transitions out of conceptual R&amp;D into the pre-commercial validation stage for the S.M.A.R.T. generator family.</description>
+    </item>
+    <item>
+      <title>The Autonomous AI Stability System Detailed</title>
+      <link>https://www.kronosfusionenergy.com/news/40-the-autonomous-ai-immune-system-operationalized</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/40-the-autonomous-ai-immune-system-operationalized</guid>
+      <pubDate>Mon, 03 Nov 2025 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Kronos details the design of its autonomous AI stability ('immune') system for real-time plasma control.</description>
+    </item>
+    <item>
+      <title>The Staged Fuel Cycle Strategy Solidified</title>
+      <link>https://www.kronosfusionenergy.com/news/38-the-3-stage-fuel-cycle-strategy-solidified</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/38-the-3-stage-fuel-cycle-strategy-solidified</guid>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos solidifies its staged fuel-cycle strategy, bridging near-term commissioning toward low-neutron D-3He operation.</description>
+    </item>
+    <item>
+      <title>Expansion of the Simulation Suite to 12 Modules</title>
+      <link>https://www.kronosfusionenergy.com/news/37-expansion-of-the-simulation-suite-to-12-modules</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/37-expansion-of-the-simulation-suite-to-12-modules</guid>
+      <pubDate>Fri, 01 Aug 2025 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>The Kronos AI simulation suite expands to twelve interoperable modules spanning magnets, plasma, and balance-of-plant.</description>
+    </item>
+    <item>
+      <title>Channel 3 &amp; 4: Thermionic and Photovoltaic Energy Capture</title>
+      <link>https://www.kronosfusionenergy.com/news/36-channel-3-4-thermionic-and-photovoltaic-energy-capture</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/36-channel-3-4-thermionic-and-photovoltaic-energy-capture</guid>
+      <pubDate>Tue, 01 Jul 2025 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>DEC Channels 3 and 4 - thermionic emission and photovoltaic capture - finalize designs to harvest surface heat and radiation.</description>
+    </item>
+    <item>
+      <title>Channel 1 &amp; 2: Electrostatic and MHD Extraction Maturation</title>
+      <link>https://www.kronosfusionenergy.com/news/35-channel-1-2-electrostatic-and-mhd-extraction-maturation</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/35-channel-1-2-electrostatic-and-mhd-extraction-maturation</guid>
+      <pubDate>Mon, 02 Jun 2025 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>DEC Channels 1 and 2 - electrostatic retarding-field and MHD extraction - mature through 2025 engineering.</description>
+    </item>
+    <item>
+      <title>The 5-Channel Direct Energy Conversion (DEC) Blueprint</title>
+      <link>https://www.kronosfusionenergy.com/news/34-the-5-channel-direct-energy-conversion-dec-blueprint</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/34-the-5-channel-direct-energy-conversion-dec-blueprint</guid>
+      <pubDate>Thu, 01 May 2025 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos publishes the complete engineering blueprint for its 5-channel Direct Energy Conversion system.</description>
+    </item>
+    <item>
+      <title>The AEGIS System for Modular Defense Applications</title>
+      <link>https://www.kronosfusionenergy.com/news/33-the-aegis-system-for-modular-defense-applications</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/33-the-aegis-system-for-modular-defense-applications</guid>
+      <pubDate>Tue, 01 Apr 2025 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos unveils AEGIS, a hardened, modular generator line for defense, remote, and critical-infrastructure missions.</description>
+    </item>
+    <item>
+      <title>Formal Introduction of the MetroVolt Urban Generator</title>
+      <link>https://www.kronosfusionenergy.com/news/32-formal-introduction-of-the-metro-volt-urban-generator</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/32-formal-introduction-of-the-metro-volt-urban-generator</guid>
+      <pubDate>Mon, 03 Mar 2025 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Kronos formally introduces MetroVolt, its commercial urban fusion generator.</description>
+    </item>
+    <item>
+      <title>Priyanca Ford's Q1 Founder Update</title>
+      <link>https://www.kronosfusionenergy.com/news/31-priyanca-ford-s-q1-founder-update-the-10-mwh-target</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/31-priyanca-ford-s-q1-founder-update-the-10-mwh-target</guid>
+      <pubDate>Mon, 03 Feb 2025 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Founder Priyanca Ford's Q1 update on the company's long-run ambitions and program direction.</description>
+    </item>
+    <item>
+      <title>Simulation Validates Negative Triangularity Plasma Shaping</title>
+      <link>https://www.kronosfusionenergy.com/news/30-simulation-validates-negative-triangularity-plasma-shaping</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/30-simulation-validates-negative-triangularity-plasma-shaping</guid>
+      <pubDate>Mon, 16 Dec 2024 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Kronos's simulation suite validates negative-triangularity plasma shaping for the S.M.A.R.T. reactor - suppressing edge instabilities without H-mode.</description>
+    </item>
+    <item>
+      <title>Jack Dongarra Optimizes Exascale Computing Workflows</title>
+      <link>https://www.kronosfusionenergy.com/news/29-jack-dongarra-optimizes-exascale-computing-workflows</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/29-jack-dongarra-optimizes-exascale-computing-workflows</guid>
+      <pubDate>Mon, 02 Dec 2024 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Turing Award winner Jack Dongarra advises on optimizing the exascale computing workflows behind the digital twin.</description>
+    </item>
+    <item>
+      <title>Sushma Bhatia Steers Legislative and Environmental Strategy</title>
+      <link>https://www.kronosfusionenergy.com/news/28-sushma-bhatia-steers-legislative-and-environmental-strategy</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/28-sushma-bhatia-steers-legislative-and-environmental-strategy</guid>
+      <pubDate>Fri, 15 Nov 2024 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Advisory board member Sushma Bhatia steers the company's legislative and environmental strategy.</description>
+    </item>
+    <item>
+      <title>Ruben Fair's Expertise Applied to Magnetic Shielding</title>
+      <link>https://www.kronosfusionenergy.com/news/27-ruben-fair-s-expertise-applied-to-magnetic-shielding</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/27-ruben-fair-s-expertise-applied-to-magnetic-shielding</guid>
+      <pubDate>Fri, 01 Nov 2024 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Board advisor Ruben Fair brings three decades of magnet-design and magnetic-shielding expertise to the program.</description>
+    </item>
+    <item>
+      <title>Dr. Gerald Kulcinski Champions the Aneutronic Vision</title>
+      <link>https://www.kronosfusionenergy.com/news/26-dr-gerald-kulcinski-champions-the-aneutronic-vision</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/26-dr-gerald-kulcinski-champions-the-aneutronic-vision</guid>
+      <pubDate>Tue, 15 Oct 2024 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Fusion pioneer Dr. Gerald Kulcinski joins the podcast, validating the low-neutron D-3He pathway and its aneutronic p-11B endpoint.</description>
+    </item>
+    <item>
+      <title>"The Kronos Fusion Energy Podcast" Expands Educational Reach</title>
+      <link>https://www.kronosfusionenergy.com/news/25-the-kronos-fusion-energy-podcast-expands-educational-reach</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/25-the-kronos-fusion-energy-podcast-expands-educational-reach</guid>
+      <pubDate>Tue, 01 Oct 2024 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>'The Kronos Fusion Energy Podcast,' hosted by Priyanca Ford, expands to demystify fusion and engage tier-one talent.</description>
+    </item>
+    <item>
+      <title>Synergies with MagLab Enhance High-Temperature Superconductors</title>
+      <link>https://www.kronosfusionenergy.com/news/24-synergies-with-maglab-enhance-high-temperature-superconductors</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/24-synergies-with-maglab-enhance-high-temperature-superconductors</guid>
+      <pubDate>Mon, 09 Sep 2024 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Work at the National High Magnetic Field Laboratory advances characterization of the high-temperature superconducting (REBCO) tapes central to the magnet system.</description>
+    </item>
+    <item>
+      <title>World's First Component Factory Established in India</title>
+      <link>https://www.kronosfusionenergy.com/news/23-world-s-first-component-factory-established-in-india</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/23-world-s-first-component-factory-established-in-india</guid>
+      <pubDate>Thu, 15 Aug 2024 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos establishes its first Fusion Energy Component Factory in India, executing on international scaling.</description>
+    </item>
+    <item>
+      <title>Jon Michel Greenwood Spearheads Digital Twin Architecture</title>
+      <link>https://www.kronosfusionenergy.com/news/22-jon-michel-greenwood-spearheads-digital-twin-architecture</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/22-jon-michel-greenwood-spearheads-digital-twin-architecture</guid>
+      <pubDate>Thu, 01 Aug 2024 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>CTO Jon Michel Greenwood elevates the Kronos simulation suite into a fully realized digital-twin platform.</description>
+    </item>
+    <item>
+      <title>Global Call for Supply Chain Partnerships</title>
+      <link>https://www.kronosfusionenergy.com/news/21-global-call-for-supply-chain-partnerships</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/21-global-call-for-supply-chain-partnerships</guid>
+      <pubDate>Mon, 15 Jul 2024 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos launches a Supply Chain Partnership Portal, marking the transition from design toward manufacturing readiness.</description>
+    </item>
+    <item>
+      <title>Establishing the KFEDS Defense Security Posture</title>
+      <link>https://www.kronosfusionenergy.com/news/20-establishing-the-kfeds-defense-security-posture</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/20-establishing-the-kfeds-defense-security-posture</guid>
+      <pubDate>Fri, 15 Dec 2023 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Kronos formalizes the KFEDS defense security posture, highlighting the resilience advantages of compact fusion for critical infrastructure.</description>
+    </item>
+    <item>
+      <title>PUZZLE X 2023: The Helium-3 Dawn Presented</title>
+      <link>https://www.kronosfusionenergy.com/news/18-puzzle-x-2023-the-helium-3-dawn-presented</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/18-puzzle-x-2023-the-helium-3-dawn-presented</guid>
+      <pubDate>Fri, 17 Nov 2023 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Founder Priyanca Ford delivers the keynote 'From Star Power to Earth: Helium-3 &amp; the Dawn of the Fusion Era' at PUZZLE X in Barcelona.</description>
+    </item>
+    <item>
+      <title>Alignment with the DOE Milestone-Based Fusion Program</title>
+      <link>https://www.kronosfusionenergy.com/news/17-alignment-with-the-doe-milestone-based-fusion-program</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/17-alignment-with-the-doe-milestone-based-fusion-program</guid>
+      <pubDate>Wed, 31 May 2023 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos aligns its development plan with the U.S. Department of Energy's Milestone-Based Fusion Development Program.</description>
+    </item>
+    <item>
+      <title>Global Community Invited to Beta Test Algorithms</title>
+      <link>https://www.kronosfusionenergy.com/news/16-global-community-invited-to-beta-test-algorithms</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/16-global-community-invited-to-beta-test-algorithms</guid>
+      <pubDate>Mon, 24 Apr 2023 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>In an unusual move for a private fusion developer, Kronos opens its simulation suite to a global community of beta testers.</description>
+    </item>
+    <item>
+      <title>Unveiling of the AI/ML-Powered Simulation Suite</title>
+      <link>https://www.kronosfusionenergy.com/news/15-unveiling-of-the-ai-ml-powered-simulation-suite</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/15-unveiling-of-the-ai-ml-powered-simulation-suite</guid>
+      <pubDate>Wed, 12 Apr 2023 09:00:00 -0700</pubDate>
+      <category>Company News</category>
+      <description>Kronos unveils its AI/ML-powered simulation suite - the computational backbone that would grow into the company's digital twin.</description>
+    </item>
+    <item>
+      <title>Paul Weiss Elevated to Lead Material Sciences &amp; Nano Technology</title>
+      <link>https://www.kronosfusionenergy.com/news/13-paul-weiss-elevated-to-lead-material-sciences-nano-technology</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/13-paul-weiss-elevated-to-lead-material-sciences-nano-technology</guid>
+      <pubDate>Tue, 28 Feb 2023 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Dr. Paul Weiss, holder of the Fred Kavli Chair in NanoSystems Sciences, formally takes the helm of Material Sciences &amp; Nano Technology.</description>
+    </item>
+    <item>
+      <title>Staged Fuel-Cycle Strategy Initiated</title>
+      <link>https://www.kronosfusionenergy.com/news/12-strategic-tritium-breeding-program-initiated</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/12-strategic-tritium-breeding-program-initiated</guid>
+      <pubDate>Wed, 22 Feb 2023 09:00:00 -0800</pubDate>
+      <category>Company News</category>
+      <description>Kronos launches its staged fuel-cycle strategy — bridging a brief deuterium–tritium commissioning stage toward low-neutron deuterium–helium-3 operation, with helium-3 bred in situ via catalyzed D–D (no breeding blanket).</description>
+    </item>
+  </channel>
+</rss>

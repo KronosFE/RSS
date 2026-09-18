@@ -1,0 +1,59 @@
+# Rebuilds the news feed every morning (Pacific) and on every push, then publishes site/ to GitHub Pages
+# (news.kronosfusionenergy.com). Only stories dated on or before the build day are included, so the
+# queued Science Log stories go out three a day on their dates. Nothing here touches the main website.
+name: Build and publish the news feed
+
+on:
+  schedule:
+    - cron: "10 14 * * *"        # daily 14:10 UTC = 07:10 PDT / 06:10 PST
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write                # commits the rebuilt site/ back to main
+  pages: write                   # publishes to GitHub Pages
+  id-token: write
+
+concurrency:
+  group: news-feed
+  cancel-in-progress: false
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build rss.xml + sitemaps into site/
+        run: python3 build_feed.py
+
+      - name: Upload site/
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Keep the repo copy of site/ current
+        continue-on-error: true
+        run: |
+          git config user.name "P Ford"
+          git config user.email "pford@macpro.lan"
+          git add site
+          if git diff --cached --quiet; then
+            echo "site/ unchanged — nothing to commit"
+          else
+            git commit -m "Feed rebuild $(TZ=America/Los_Angeles date +%Y-%m-%d) (scheduled build)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

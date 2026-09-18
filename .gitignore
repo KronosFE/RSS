@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+# local staging / working folders — never published
+_science_log_staging/
+_news_feed_staging/

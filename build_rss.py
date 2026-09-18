@@ -10,7 +10,9 @@ from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
 BASE = "https://www.kronosfusionenergy.com"
-OUTDIR = "/Users/pford/Desktop/Kronos Fusion Energy/Kronos Fusion Energy July 2026 Publication/05 - Website 2026/rss"
+# Staged output (not the live deploy path). Set this to the real /rss deploy folder when publishing.
+# Original path was: .../Kronos Fusion Energy July 2026 Publication/05 - Website 2026/rss
+OUTDIR = "/Users/pford/Desktop/Kronos Fusion Energy/04 - IT INFRASTRUCTURE/07 - IT Infrastructure & Code Repos/Code Repos (live)/RSS/_news_feed_staging"
 # Channel logo shown by feed readers — must be ≤144×144 and actually resolve. CONFIRM this URL points to a real image.
 LOGO_URL = f"{BASE}/logo.png"
 
@@ -36,7 +38,7 @@ ITEMS = [
 (28,"28-sushma-bhatia-steers-legislative-and-environmental-strategy","Sushma Bhatia Steers Legislative and Environmental Strategy","Advisory board member Sushma Bhatia steers the company's legislative and environmental strategy.",(2024,11,15)),
 (29,"29-jack-dongarra-optimizes-exascale-computing-workflows","Jack Dongarra Optimizes Exascale Computing Workflows","Turing Award winner Jack Dongarra advises on optimizing the exascale computing workflows behind the digital twin.",(2024,12,2)),
 (30,"30-simulation-validates-negative-triangularity-plasma-shaping","Simulation Validates Negative Triangularity Plasma Shaping","Kronos's simulation suite validates negative-triangularity plasma shaping for the S.M.A.R.T. reactor - suppressing edge instabilities without H-mode.",(2024,12,16)),
-(31,"31-priyanca-ford-s-q1-founder-update-the-10-mwh-target","Priyanca Ford's Q1 Founder Update","Founder Priyanca Ford's Q1 update elevates the company's long-run economic ambitions. (Current published LCOE canon is the FOAK $84-92 to fleet $48-56/MWh ladder.)",(2025,2,3)),
+(31,"31-priyanca-ford-s-q1-founder-update-the-10-mwh-target","Priyanca Ford's Q1 Founder Update","Founder Priyanca Ford's Q1 update on the company's long-run ambitions and program direction.",(2025,2,3)),
 (32,"32-formal-introduction-of-the-metro-volt-urban-generator","Formal Introduction of the MetroVolt Urban Generator","Kronos formally introduces MetroVolt, its commercial urban fusion generator.",(2025,3,3)),
 (33,"33-the-aegis-system-for-modular-defense-applications","The AEGIS System for Modular Defense Applications","Kronos unveils AEGIS, a hardened, modular generator line for defense, remote, and critical-infrastructure missions.",(2025,4,1)),
 (34,"34-the-5-channel-direct-energy-conversion-dec-blueprint","The 5-Channel Direct Energy Conversion (DEC) Blueprint","Kronos publishes the complete engineering blueprint for its 5-channel Direct Energy Conversion system.",(2025,5,1)),
@@ -44,18 +46,20 @@ ITEMS = [
 (36,"36-channel-3-4-thermionic-and-photovoltaic-energy-capture","Channel 3 & 4: Thermionic and Photovoltaic Energy Capture","DEC Channels 3 and 4 - thermionic emission and photovoltaic capture - finalize designs to harvest surface heat and radiation.",(2025,7,1)),
 (37,"37-expansion-of-the-simulation-suite-to-12-modules","Expansion of the Simulation Suite to 12 Modules","The Kronos AI simulation suite expands to twelve interoperable modules spanning magnets, plasma, and balance-of-plant.",(2025,8,1)),
 (38,"38-the-3-stage-fuel-cycle-strategy-solidified","The Staged Fuel Cycle Strategy Solidified","Kronos solidifies its staged fuel-cycle strategy, bridging near-term commissioning toward low-neutron D-3He operation.",(2025,9,1)),
-(39,"39-levelized-cost-of-energy-lcoe-model-details-foak-to-noak","Levelized Cost of Energy (LCOE) Model Details FOAK to NOAK","Kronos details its levelized-cost-of-energy model across the FOAK-to-NOAK trajectory.",(2025,10,1)),
 (40,"40-the-autonomous-ai-immune-system-operationalized","The Autonomous AI Stability System Detailed","Kronos details the design of its autonomous AI stability ('immune') system for real-time plasma control.",(2025,11,3)),
 (41,"41-entering-the-pre-commercial-validation-stage","Entering the Pre-Commercial Validation Stage","Kronos transitions out of conceptual R&D into the pre-commercial validation stage for the S.M.A.R.T. generator family.",(2026,1,6)),
-(42,"42-the-2026-tech-audit-presentation-delivered","The 2026 Tech Audit Presentation Delivered","Kronos delivers its 2026 Tech Audit - a full disclosure of generator physics, engineering, and LCOE.",(2026,1,27)),
+(42,"42-the-2026-tech-audit-presentation-delivered","The 2026 Tech Audit Presentation Delivered","Kronos delivers its 2026 Tech Audit - a full disclosure of generator physics and engineering.",(2026,1,27)),
 (43,"43-30-tesla-on-axis-field-conductor-survivability-confirmed","24.6 T Peak Conductor Field: Survivability Analyzed","The 2026 audit analyzes REBCO HTS magnet conductor survivability at the 24.6 T peak conductor field — just above the 24.4 T demonstrated single-coil, with a 1.59× strain margin.",(2026,2,17)),
 (44,"44-1d-thermal-gradient-and-vacuum-vessel-structural-analysis-published","1-D Thermal Gradient and Vacuum Vessel Structural Analysis Published","Kronos publishes its 1-D thermal-gradient (1700 C plasma edge) data and full vacuum-vessel structural analysis.",(2026,3,10)),
 (45,"45-the-20k-closed-cycle-cryogenic-network-design-locked","The 20 K Closed-Cycle Cryogenic Network Design Locked","Kronos locks the design of its 20 K closed-cycle cryogenic network, eliminating liquid-helium infrastructure from the balance-of-plant.",(2026,3,31)),
 (46,"46-active-blanket-architecture-and-tritium-multiplier-validation","Center-Stack Neutron Shield and Fluence Budget Analyzed","2026 simulation campaigns analyze the shielded center-stack neutron-fluence budget for the low-neutron design — no breeding blanket required.",(2026,4,21)),
 (47,"47-microsecond-ai-control-overcomes-vertical-displacement-events","Microsecond AI Control Modeled for Vertical Displacement Events","Simulations show the microsecond AI digital twin can mitigate vertical displacement events (VDEs) in the design.",(2026,5,12)),
-(48,"48-capex-reductions-mapped-through-modular-manufacturing","CapEx Reductions Mapped Through Modular Manufacturing","Kronos finalizes the modular-manufacturing logistics that drive the CapEx reductions in its LCOE model.",(2026,6,2)),
+(48,"48-modular-manufacturing-logistics-finalized","Modular Manufacturing Logistics Finalized","Kronos finalizes the modular-manufacturing logistics behind its S.M.A.R.T. generator family.",(2026,6,2)),
 (49,"49-load-following-capability-validated-for-grid-integration","Load-Following Capability Modeled for Grid Integration","Kronos models load-following capability for grid integration in its design point, ahead of the gated program.",(2026,6,23)),
 (50,"50-the-horizon-finalizing-vendor-contracts-for-physical-construction","The Horizon: Toward Gate-Stage Hardware","As 2026 closes, Kronos looks ahead to its gated program — engaging vendors and the supply chain on the path from a validated design toward first hardware.",(2026,7,10)),
+(51,"51-kodex-35-open-source-ai-ml-fusion-codes-released","KODEX — 35 Open-Source AI/ML Fusion Codes Released","Kronos releases KODEX, the Kronos Family of Codes — 35 benchmarked, open-source AI/ML surrogate and quantum codes spanning turbulence and transport, magnets and quench, neutronics, materials, control, and fuel cycle. Every one is trained and tested on open data with fixed seeds and calibrated uncertainty, and knows when to abstain. Install with pip install kronos-fusion-ml.",(2026,9,10)),
+(52,"52-115-open-papers-permanently-archived-with-dois","115 Open Papers Permanently Archived with DOIs","Kronos publishes its complete open corpus — 115 open-access papers across the Hyperion breeder and the Aegis/MetroVolt generator, each with a permanent DOI and mirrored across Zenodo, OSF, Figshare, and the Internet Archive. Written to be refereed; the flagship series is in submission for peer review.",(2026,9,11)),
+(53,"53-245-gate-de-risking-register-and-cgyro-confinement-map","245-Gate De-Risking Register and CGYRO Confinement Map","Kronos posts a 245-gate physics de-risking register spanning the breeder and both burners, alongside a CGYRO gyrokinetic campaign that closes a 16-point confinement map at real electron mass — confirming negative triangularity suppresses turbulent transport at the breeder operating point (DOI 10.5281/zenodo.22136279).",(2026,9,12)),
 ]
 
 def dt_for(ymd):
@@ -65,7 +69,7 @@ def dt_for(ymd):
 
 # newest first
 items_sorted = sorted(ITEMS, key=lambda it: dt_for(it[4]), reverse=True)
-build_dt = datetime(2026,7,13,9,0,0, tzinfo=timezone(timedelta(hours=-7)))
+build_dt = datetime(2026,9,13,9,0,0, tzinfo=timezone(timedelta(hours=-7)))
 
 # ---------- RSS ----------
 parts = []
@@ -74,7 +78,7 @@ parts.append('<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">')
 parts.append('  <channel>')
 parts.append('    <title>Kronos Fusion Energy — News</title>')
 parts.append(f'    <link>{BASE}/news</link>')
-parts.append('    <description>Chronological dossier and news briefings from Kronos Fusion Energy — leadership, S.M.A.R.T. architecture, digital twin, direct energy conversion, LCOE, and supply-chain milestones.</description>')
+parts.append('    <description>Chronological dossier and news briefings from Kronos Fusion Energy — leadership, S.M.A.R.T. architecture, digital twin, direct energy conversion, and supply-chain milestones.</description>')
 parts.append('    <language>en-us</language>')
 parts.append('    <copyright>© 2026 Kronos Fusion Energy</copyright>')
 parts.append(f'    <lastBuildDate>{format_datetime(build_dt)}</lastBuildDate>')

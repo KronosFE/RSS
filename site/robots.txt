@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://news.kronosfusionenergy.com/news_sitemap.xml
+Sitemap: https://news.kronosfusionenergy.com/news_google_sitemap.xml
