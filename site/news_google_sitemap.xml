@@ -1,35 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/rebco-magnet-tape-dataset-released</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
+      <news:title>REBCO magnet and tape basis released as a citable dataset</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/structural-support-gravity-loads</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
+      <news:title>Structural: holding the machine up</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-center-stack-shielding</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
+      <news:title>Gate closed: center-stack shielding protects the core column</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/breeder-fusion-gain-frozen-q-3076</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
+      <news:title>Breeder Fusion Gain Frozen at Q = 3.076</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/rebco-conductor-basis-published</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
+      <news:title>REBCO Conductor Basis Published: The Tape Behind Both Machines</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-validators-live</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-18T06:00:00-07:00</news:publication_date>
       <news:title>Recompute it yourself: Kronos validators go live in the browser</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-center-stack-shielding</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-17T06:00:00-07:00</news:publication_date>
-      <news:title>Design locked: center-stack shielding geometry</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/burner-design-point-dataset-posted</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-17T06:00:00-07:00</news:publication_date>
-      <news:title>Burner design-point dataset posted for independent reproduction</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/structural-vacuum-vessel-thermal</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-17T06:00:00-07:00</news:publication_date>
-      <news:title>Structural: the vacuum vessel's 1-D thermal profile</news:title>
     </news:news>
   </url>
 </urlset>
