@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-digital-twin</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
+      <news:title>A digital twin of the breeder, component by component</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-vacuum-vessel</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
+      <news:title>Design locked: the vacuum vessel shell</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-fluence-budget-lifetime</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
+      <news:title>Gate closed: fluence budget sets the centrepost's replacement life</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/breeder-fusion-power-point-frozen-85mw</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
+      <news:title>Breeder Fusion Power Point Frozen at 85.04 MW</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/rebco-tape-qualification-data-descriptor</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
+      <news:title>REBCO Tape Qualification Dataset Published as a Standalone Data Descriptor</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/rebco-magnet-tape-dataset-released</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,14 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
       <news:title>REBCO Conductor Basis Published: The Tape Behind Both Machines</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/methods-validators-live</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-18T06:00:00-07:00</news:publication_date>
-      <news:title>Recompute it yourself: Kronos validators go live in the browser</news:title>
     </news:news>
   </url>
 </urlset>

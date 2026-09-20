@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 10:14:22 -0700</lastBuildDate>
-    <pubDate>Sat, 19 Sep 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:26:25 -0700</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>A digital twin of the breeder, component by component</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-digital-twin</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-digital-twin</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>Kronos publishes a live digital twin of the breeder, built directly on the frozen design point: centrepost field 16.84 T, plasma current I_p = 9.66 MA, negative triangularity δ = −0.30.</description>
+    </item>
+    <item>
+      <title>Design locked: the vacuum vessel shell</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-vacuum-vessel</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-vacuum-vessel</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Design lock: the vacuum vessel — the structural boundary holding plasma vacuum against atmosphere while carrying electromagnetic and thermal loads from the burning core out to the machine's supports — is locked to a reference geometry.</description>
+    </item>
+    <item>
+      <title>Gate closed: fluence budget sets the centrepost's replacement life</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-fluence-budget-lifetime</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-fluence-budget-lifetime</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Gate closed: fluence budget sets the centrepost's replacement life.</description>
+    </item>
+    <item>
+      <title>Breeder Fusion Power Point Frozen at 85.04 MW</title>
+      <link>https://www.kronosfusionenergy.com/news/breeder-fusion-power-point-frozen-85mw</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/breeder-fusion-power-point-frozen-85mw</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>At the frozen Hyperion breeder design point, fusion power is set at P_fus = 85.04 MW, paired with fusion gain Q = 3.076, so P_fus = Q · P_heat = 85.04 MW.</description>
+    </item>
+    <item>
+      <title>REBCO Tape Qualification Dataset Published as a Standalone Data Descriptor</title>
+      <link>https://www.kronosfusionenergy.com/news/rebco-tape-qualification-data-descriptor</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/rebco-tape-qualification-data-descriptor</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The tape qualification data behind both machines' magnets now has its own citable data descriptor, separate from the narrative REBCO paper it supports.</description>
+    </item>
     <item>
       <title>REBCO magnet and tape basis released as a citable dataset</title>
       <link>https://www.kronosfusionenergy.com/news/rebco-magnet-tape-dataset-released</link>
