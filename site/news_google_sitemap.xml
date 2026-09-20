@@ -5,7 +5,7 @@
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
-      <news:title>A digital twin of the breeder, component by component</news:title>
+      <news:title>A Digital Twin of the Breeder, Component by Component</news:title>
     </news:news>
   </url>
   <url>
@@ -13,7 +13,7 @@
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
-      <news:title>Design locked: the vacuum vessel shell</news:title>
+      <news:title>Kronos Locks the Design of the Breeder's Vacuum Vessel Shell</news:title>
     </news:news>
   </url>
   <url>
@@ -21,7 +21,7 @@
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: fluence budget sets the centrepost's replacement life</news:title>
+      <news:title>Gate closed: fluence budget sets the breeder centrepost's replacement life</news:title>
     </news:news>
   </url>
   <url>
@@ -29,7 +29,7 @@
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
-      <news:title>Breeder Fusion Power Point Frozen at 85.04 MW</news:title>
+      <news:title>Breeder's Fusion-Power Point Frozen at 85.04 Megawatts</news:title>
     </news:news>
   </url>
   <url>
@@ -37,7 +37,7 @@
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
-      <news:title>REBCO Tape Qualification Dataset Published as a Standalone Data Descriptor</news:title>
+      <news:title>Kronos Publishes REBCO Tape Qualification Data as a Standalone Descriptor</news:title>
     </news:news>
   </url>
   <url>
@@ -53,7 +53,7 @@
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
-      <news:title>Structural: holding the machine up</news:title>
+      <news:title>Structural Analysis Traces Gravity Loads From Magnets to Foundation</news:title>
     </news:news>
   </url>
   <url>
@@ -61,7 +61,7 @@
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: center-stack shielding protects the core column</news:title>
+      <news:title>Gate Closed: Center-Stack Shielding Protects the Core Column</news:title>
     </news:news>
   </url>
   <url>
@@ -77,7 +77,7 @@
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
-      <news:title>REBCO Conductor Basis Published: The Tape Behind Both Machines</news:title>
+      <news:title>Kronos Publishes the REBCO Conductor Basis Behind Both Machines</news:title>
     </news:news>
   </url>
 </urlset>

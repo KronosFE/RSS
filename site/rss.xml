@@ -6,7 +6,7 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sun, 20 Sep 2026 10:26:25 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:01:04 -0700</lastBuildDate>
     <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
@@ -19,44 +19,44 @@
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
     <item>
-      <title>A digital twin of the breeder, component by component</title>
+      <title>A Digital Twin of the Breeder, Component by Component</title>
       <link>https://www.kronosfusionenergy.com/news/methods-digital-twin</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-digital-twin</guid>
       <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
       <category>Methods Update</category>
-      <description>Kronos publishes a live digital twin of the breeder, built directly on the frozen design point: centrepost field 16.84 T, plasma current I_p = 9.66 MA, negative triangularity δ = −0.30.</description>
+      <description>Kronos has published a clickable, component-level model of the Hyperion breeder, built directly on the frozen design point, so the machine can be inspected years before any steel is cut.</description>
     </item>
     <item>
-      <title>Design locked: the vacuum vessel shell</title>
+      <title>Kronos Locks the Design of the Breeder's Vacuum Vessel Shell</title>
       <link>https://www.kronosfusionenergy.com/news/design-lock-vacuum-vessel</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-vacuum-vessel</guid>
       <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
       <category>Design Lock</category>
-      <description>Design lock: the vacuum vessel — the structural boundary holding plasma vacuum against atmosphere while carrying electromagnetic and thermal loads from the burning core out to the machine's supports — is locked to a reference geometry.</description>
+      <description>The structural boundary that holds plasma vacuum against atmosphere is now fixed to a reference geometry, giving every downstream structural check a stable target.</description>
     </item>
     <item>
-      <title>Gate closed: fluence budget sets the centrepost's replacement life</title>
+      <title>Gate closed: fluence budget sets the breeder centrepost's replacement life</title>
       <link>https://www.kronosfusionenergy.com/news/gate-fluence-budget-lifetime</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-fluence-budget-lifetime</guid>
       <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
       <category>Gate</category>
-      <description>Gate closed: fluence budget sets the centrepost's replacement life.</description>
+      <description>Kronos has turned years of neutron damage into a defined service-life number for the column carrying the breeder's 16.84 T core field, rather than leaving the question open-ended.</description>
     </item>
     <item>
-      <title>Breeder Fusion Power Point Frozen at 85.04 MW</title>
+      <title>Breeder's Fusion-Power Point Frozen at 85.04 Megawatts</title>
       <link>https://www.kronosfusionenergy.com/news/breeder-fusion-power-point-frozen-85mw</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/breeder-fusion-power-point-frozen-85mw</guid>
       <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>At the frozen Hyperion breeder design point, fusion power is set at P_fus = 85.04 MW, paired with fusion gain Q = 3.076, so P_fus = Q · P_heat = 85.04 MW.</description>
+      <description>Every downstream engineering budget on the Hyperion breeder now scales from a single frozen power figure, anchored to materials output rather than electricity.</description>
     </item>
     <item>
-      <title>REBCO Tape Qualification Dataset Published as a Standalone Data Descriptor</title>
+      <title>Kronos Publishes REBCO Tape Qualification Data as a Standalone Descriptor</title>
       <link>https://www.kronosfusionenergy.com/news/rebco-tape-qualification-data-descriptor</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/rebco-tape-qualification-data-descriptor</guid>
       <pubDate>Sun, 20 Sep 2026 06:00:00 -0700</pubDate>
       <category>Paper Update</category>
-      <description>The tape qualification data behind both machines' magnets now has its own citable data descriptor, separate from the narrative REBCO paper it supports.</description>
+      <description>A precise, reusable record of how the superconducting tape behind both machines' magnets was qualified is now public in its own right, separate from the paper that argues the physics.</description>
     </item>
     <item>
       <title>REBCO magnet and tape basis released as a citable dataset</title>
@@ -64,23 +64,23 @@
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/rebco-magnet-tape-dataset-released</guid>
       <pubDate>Sat, 19 Sep 2026 06:00:00 -0700</pubDate>
       <category>Open-Data Update</category>
-      <description>The REBCO high-temperature-superconductor basis behind Kronos's magnet designs is now posted as a citable dataset.</description>
+      <description>Kronos has posted the REBCO superconductor basis behind its highest-field magnet as an open, citable dataset — the reference every downstream magnet and thermal analysis in the breeder program cites back to.</description>
     </item>
     <item>
-      <title>Structural: holding the machine up</title>
+      <title>Structural Analysis Traces Gravity Loads From Magnets to Foundation</title>
       <link>https://www.kronosfusionenergy.com/news/structural-support-gravity-loads</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/structural-support-gravity-loads</guid>
       <pubDate>Sat, 19 Sep 2026 06:00:00 -0700</pubDate>
       <category>Analysis</category>
-      <description>Every component in the breeder — magnet set, vacuum vessel, shielding — has mass, and mass under gravity needs a support structure sized to carry it without deflection that would misalign the machine's carefully-shaped field.</description>
+      <description>A new load-path study checks that Hyperion's heaviest components, anchored by the 16.84-tesla centrepost magnet set, can be supported without misaligning the machine's field.</description>
     </item>
     <item>
-      <title>Gate closed: center-stack shielding protects the core column</title>
+      <title>Gate Closed: Center-Stack Shielding Protects the Core Column</title>
       <link>https://www.kronosfusionenergy.com/news/gate-center-stack-shielding</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-center-stack-shielding</guid>
       <pubDate>Sat, 19 Sep 2026 06:00:00 -0700</pubDate>
       <category>Gate</category>
-      <description>Gate closed: center-stack shielding protects the core column.</description>
+      <description>Kronos has locked the shield's layer count and material sequencing around the centrepost, closing a de-risking gate long before the column carrying 16.84 T ever sees a real neutron.</description>
     </item>
     <item>
       <title>Breeder Fusion Gain Frozen at Q = 3.076</title>
@@ -88,39 +88,39 @@
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/breeder-fusion-gain-frozen-q-3076</guid>
       <pubDate>Sat, 19 Sep 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Fusion gain is fusion power out over external heating power in: Q = P_fus / P_heat = 3.076 at the frozen Hyperion breeder design point. Fixing Q at 3.076 gives the whole platform a single reference to build against — magnets, shielding, tritium handling and structural margins are all set to it, not to a moving target.</description>
+      <description>Kronos has frozen the fusion-gain figure the rest of the breeder platform is designed against, and judges Hyperion on the materials it produces rather than on electricity.</description>
     </item>
     <item>
-      <title>REBCO Conductor Basis Published: The Tape Behind Both Machines</title>
+      <title>Kronos Publishes the REBCO Conductor Basis Behind Both Machines</title>
       <link>https://www.kronosfusionenergy.com/news/rebco-conductor-basis-published</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/rebco-conductor-basis-published</guid>
       <pubDate>Sat, 19 Sep 2026 06:00:00 -0700</pubDate>
       <category>Paper Update</category>
-      <description>Both Kronos machines run on the same conductor basis. REBCO high-temperature-superconducting tape, operated near 20 K in a closed-cycle cryogenic loop, is what makes Hyperion's 16.84 T centrepost field and the burner's 26.49 T plug field possible in a compact envelope - high field without the bulk of low-temperature su…</description>
+      <description>A new open dataset documents the high-temperature superconducting tape that makes both the breeder's centrepost field and the burner's plug field possible in a compact envelope.</description>
     </item>
     <item>
-      <title>Recompute it yourself: Kronos validators go live in the browser</title>
+      <title>Recompute it yourself: Kronos puts its validators live in the browser</title>
       <link>https://www.kronosfusionenergy.com/news/methods-validators-live</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-validators-live</guid>
       <pubDate>Fri, 18 Sep 2026 06:00:00 -0700</pubDate>
       <category>Methods Update</category>
-      <description>Kronos took the claims underlying the De-risking Register and made each one a live, browser-based validator — a card that recomputes the claim from its stated inputs, in front of the reader.</description>
+      <description>Every claim in Kronos's de-risking register, from tritium breeding to magnet field strength, can now be recalculated live in the browser instead of taken on faith from a static number.</description>
     </item>
     <item>
-      <title>Design locked: center-stack shielding geometry</title>
+      <title>Design Locked: Center-Stack Shielding for the Breeder's Core</title>
       <link>https://www.kronosfusionenergy.com/news/design-lock-center-stack-shielding</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-center-stack-shielding</guid>
       <pubDate>Thu, 17 Sep 2026 06:00:00 -0700</pubDate>
       <category>Design Lock</category>
-      <description>Design lock: the shield geometry wrapped around the breeder's centrepost — the column carrying 16.84 T at the frozen design point — is now locked to a reference layout.</description>
+      <description>The shield around the machine's most exposed structural column now has a fixed reference layout, ahead of the detailed engineering paper.</description>
     </item>
     <item>
-      <title>Burner design-point dataset posted for independent reproduction</title>
+      <title>Kronos Posts Burner Design-Point Dataset for Independent Reproduction</title>
       <link>https://www.kronosfusionenergy.com/news/burner-design-point-dataset-posted</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/burner-design-point-dataset-posted</guid>
       <pubDate>Thu, 17 Sep 2026 06:00:00 -0700</pubDate>
       <category>Open-Data Update</category>
-      <description>The Aegis/MetroVolt D–³He burner design point is now a citable dataset built for independent reproduction.</description>
+      <description>Every input behind the burner's headline efficiency and gain figures is now downloadable, so an outside reader can re-derive the numbers rather than take them on trust.</description>
     </item>
     <item>
       <title>Structural: the vacuum vessel's 1-D thermal profile</title>
@@ -128,15 +128,15 @@
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/structural-vacuum-vessel-thermal</guid>
       <pubDate>Thu, 17 Sep 2026 06:00:00 -0700</pubDate>
       <category>Analysis</category>
-      <description>The vacuum vessel sits between two very different thermal environments — a magnet set held near 20 K, REBCO tape's operating point, on one side, and a burning plasma radiating heat on the other.</description>
+      <description>A new thermal analysis maps the temperature gradient across the vacuum vessel wall, the input every downstream stress calculation for the vessel — including the centrepost's own structural result — depends on.</description>
     </item>
     <item>
-      <title>Gate closed: centrepost structural margin passes at 181 MPa</title>
+      <title>Gate Closed: Hyperion's Centrepost Passes Its Structural Margin at 181 MPa</title>
       <link>https://www.kronosfusionenergy.com/news/gate-centrepost-structural-margin</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-centrepost-structural-margin</guid>
       <pubDate>Wed, 16 Sep 2026 06:00:00 -0700</pubDate>
       <category>Gate</category>
-      <description>Gate closed: centrepost structural margin passes.</description>
+      <description>The column carrying the breeder's 16.84-tesla core field has cleared its de-risking check, the load-bearing result every downstream shielding and thermal analysis is measured against.</description>
     </item>
     <item>
       <title>Centrepost Stress Passes With Margin at 181 MPa</title>
@@ -144,7 +144,7 @@
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/centrepost-stress-passes-with-margin</guid>
       <pubDate>Wed, 16 Sep 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>The centrepost carries the toroidal-field return current through the machine's narrowest cross-section — the column most exposed to combined electromagnetic and thermal load.</description>
+      <description>A finite-element check of Hyperion's most heavily loaded structural column clears its material limit at the frozen design point, freeing the rest of the radial build to proceed on fixed numbers.</description>
     </item>
     <item>
       <title>Burner Design Point Published: The D–³He Tandem-Mirror Reference Case</title>
@@ -152,39 +152,39 @@
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/burner-design-point-published-tandem-mirror</guid>
       <pubDate>Wed, 16 Sep 2026 06:00:00 -0700</pubDate>
       <category>Paper Update</category>
-      <description>The companion reference case for the burner line - the low-neutron D-He3 tandem mirror shared by Aegis and MetroVolt - is now public.</description>
+      <description>Kronos has fixed the numbers behind its low-neutron burner line, the shared physics core that both the Aegis defense generator and the MetroVolt data-center generator build outward from.</description>
     </item>
     <item>
-      <title>The physics engine is open: Kronos releases its research toolkit</title>
+      <title>Kronos Opens the Physics Engine Behind Its Published Numbers</title>
       <link>https://www.kronosfusionenergy.com/news/methods-toolkit-released</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-toolkit-released</guid>
       <pubDate>Tue, 15 Sep 2026 06:00:00 -0700</pubDate>
       <category>Methods Update</category>
-      <description>The same physics engine Kronos uses internally to derive its frozen design points is now public: github.com/KronosFE/kronos-toolkit.</description>
+      <description>Kronos has released the toolkit it uses internally to derive its frozen design points, putting the evaluator behind the breeder and burner numbers into anyone's hands.</description>
     </item>
     <item>
-      <title>Design locked: the 20 K cryogenic network, closed-cycle</title>
+      <title>Design locked: breeder's cryogenic network fixed at 20 K</title>
       <link>https://www.kronosfusionenergy.com/news/design-lock-20k-cryogenic-network</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-20k-cryogenic-network</guid>
       <pubDate>Mon, 14 Sep 2026 06:00:00 -0700</pubDate>
       <category>Design Lock</category>
-      <description>Design lock: Kronos has frozen the cryogenic architecture that keeps the breeder's REBCO coils superconducting — a closed-cycle network holding the magnet set near 20 K.</description>
+      <description>Kronos has frozen the closed-cycle cooling architecture behind its breeder's magnets, the choice that lets a 16.84 T centrepost fit inside a compact machine instead of a much larger one.</description>
     </item>
     <item>
-      <title>Breeder design-point dataset live on Zenodo</title>
+      <title>Kronos Posts Breeder Design-Point Dataset to Zenodo</title>
       <link>https://www.kronosfusionenergy.com/news/breeder-design-point-dataset-live</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/breeder-design-point-dataset-live</guid>
       <pubDate>Mon, 14 Sep 2026 06:00:00 -0700</pubDate>
       <category>Open-Data Update</category>
-      <description>The Hyperion breeder's frozen design point is not just a line in a paper — it's a versioned Zenodo deposit you can pull and re-run.</description>
+      <description>The frozen numbers behind the Hyperion breeder are now a permanent, versioned Zenodo record instead of figures quoted only in a paper.</description>
     </item>
     <item>
-      <title>Transport: the nonlinear core-turbulence run behind negative triangularity</title>
+      <title>Kronos Publishes Full Turbulence Run Behind Breeder's Negative-Triangularity Shaping</title>
       <link>https://www.kronosfusionenergy.com/news/transport-core-turbulence-cgyro</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/transport-core-turbulence-cgyro</guid>
       <pubDate>Mon, 14 Sep 2026 06:00:00 -0700</pubDate>
       <category>Analysis</category>
-      <description>The negative-triangularity shaping behind the breeder's frozen design point — δ = −0.30 — is a physics claim, and physics claims need a code that resolves turbulence nonlinearly to check them, not just a linear stability estimate.</description>
+      <description>A nonlinear gyrokinetic simulation, not a linear estimate, now backs the plasma-shaping choice meant to steady the breeder's edge without leaning on a disruption-prone confinement barrier.</description>
     </item>
     <item>
       <title>Gate closed: net tritium breeding clears self-sufficiency</title>
@@ -192,15 +192,15 @@
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-net-tritium-breeding</guid>
       <pubDate>Sun, 13 Sep 2026 06:00:00 -0700</pubDate>
       <category>Gate</category>
-      <description>Gate closed: net tritium breeding clears self-sufficiency in the Hyperion breeder platform.</description>
+      <description>Kronos has closed the de-risking gate confirming the Hyperion breeder's blanket produces more tritium than it burns, with margin to spare for decay losses and startup fuel for the next machine.</description>
     </item>
     <item>
-      <title>Net Tritium Breeding Confirmed Self-Sufficient — TBR ≥ 1.05</title>
+      <title>Breeder Design Confirms Net Tritium Self-Sufficiency at TBR ≥ 1.05</title>
       <link>https://www.kronosfusionenergy.com/news/net-tritium-breeding-confirmed-self-sufficient</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/net-tritium-breeding-confirmed-self-sufficient</guid>
       <pubDate>Sun, 13 Sep 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Tritium self-sufficiency comes down to one ratio: local production over consumption across the blanket volume, TBR = (∫_V Σ_T φ dV) / R_fus.</description>
+      <description>Modeled neutronics across Hyperion's blanket show the breeder produces more tritium than it burns, with margin held in reserve for decay and future startup fuel.</description>
     </item>
     <item>
       <title>Breeder Design Point Published: Hyperion's Q = 3.076 Reference Case</title>
@@ -208,7 +208,7 @@
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/hyperion-breeder-design-point-published</guid>
       <pubDate>Sun, 13 Sep 2026 06:00:00 -0700</pubDate>
       <category>Paper Update</category>
-      <description>The frozen breeder reference case for Hyperion, our spherical-tokamak platform, is now public and re-runnable.</description>
+      <description>Kronos has frozen the numbers behind its Hyperion breeder, giving every downstream design paper in the series a single, fixed target to match.</description>
     </item>
     <item>
       <title>The Horizon: Toward Gate-Stage Hardware</title>
