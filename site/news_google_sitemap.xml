@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-simulation-suite-scope</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-21T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Scopes What Its Simulation Stack Can Model Today</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-magnet-set-geometry</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-21T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Locks the Breeder's Magnet-Set Geometry</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/cgyro-turbulence-dataset-doi</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-21T06:00:00-07:00</news:publication_date>
+      <news:title>CGYRO turbulence dataset now carries a permanent DOI</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/structural-electromagnetic-loads</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-21T06:00:00-07:00</news:publication_date>
+      <news:title>Structural Analysis Maps the Forces Hyperion's Own Field Creates</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/breeder-plasma-current-frozen-966ma</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-21T06:00:00-07:00</news:publication_date>
+      <news:title>Breeder Plasma Current Frozen at 9.66 MA</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-digital-twin</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-20T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Publishes REBCO Tape Qualification Data as a Standalone Descriptor</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/rebco-magnet-tape-dataset-released</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
-      <news:title>REBCO magnet and tape basis released as a citable dataset</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/structural-support-gravity-loads</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
-      <news:title>Structural Analysis Traces Gravity Loads From Magnets to Foundation</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-center-stack-shielding</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: Center-Stack Shielding Protects the Core Column</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/breeder-fusion-gain-frozen-q-3076</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
-      <news:title>Breeder Fusion Gain Frozen at Q = 3.076</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/rebco-conductor-basis-published</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-19T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes the REBCO Conductor Basis Behind Both Machines</news:title>
     </news:news>
   </url>
 </urlset>
