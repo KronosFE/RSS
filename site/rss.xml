@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 11:03:18 -0700</lastBuildDate>
-    <pubDate>Tue, 22 Sep 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:22:30 -0700</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Kronos Ties Every Published Figure Back to Its Source Numbers</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-figure-pipeline</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-figure-pipeline</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>A canon-lock pipeline generates Kronos's charts directly from the same design-point data the papers cite, so a figure can never silently drift from the number behind it.</description>
+    </item>
+    <item>
+      <title>AI + Quantum method ships with a three-environment cold reproduction</title>
+      <link>https://www.kronosfusionenergy.com/news/ai-quantum-method-three-env-cold-repro</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/ai-quantum-method-three-env-cold-repro</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>Rather than asserting its method runs cleanly, Kronos ran it from scratch in three separate environments and published the log showing each one reached the same answer.</description>
+    </item>
+    <item>
+      <title>Kronos Maps What the Breeder's Center-Stack Shield Has to Stop</title>
+      <link>https://www.kronosfusionenergy.com/news/neutronics-shield-attenuation</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/neutronics-shield-attenuation</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>A neutronics analysis lays out the flux the Hyperion breeder's innermost shield has to absorb, ahead of the specific attenuation numbers.</description>
+    </item>
+    <item>
+      <title>Kronos Freezes Burner Engineering Gain at Q_E = 1.318</title>
+      <link>https://www.kronosfusionenergy.com/news/burner-engineering-gain-frozen-qe-1318</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/burner-engineering-gain-frozen-qe-1318</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>The honest efficiency figure for a burner whose real value is low-neutron output, not raw fusion power, is now locked at the frozen design point.</description>
+    </item>
+    <item>
+      <title>Burner Direct-Conversion Efficiency Frozen at η = 0.49</title>
+      <link>https://www.kronosfusionenergy.com/news/burner-direct-conversion-efficiency-frozen</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/burner-direct-conversion-efficiency-frozen</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos has frozen the direct energy-conversion efficiency for its D-³He burner line at 0.49, using a five-channel stack to capture charged-particle exhaust without ever routing it through a thermal cycle.</description>
+    </item>
     <item>
       <title>Design Locked: Hyperion's Divertor and Exhaust Path</title>
       <link>https://www.kronosfusionenergy.com/news/design-lock-divertor-exhaust</link>
