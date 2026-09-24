@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 11:22:30 -0700</lastBuildDate>
-    <pubDate>Wed, 23 Sep 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:23:45 -0700</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Inside the Engine That Re-Derives Kronos's Headline Q = 3.076</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-evaluator-engine</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-evaluator-engine</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>The breeder's frozen fusion-gain figure is not a stored constant &amp;mdash; it is recomputed from scratch every time Kronos's evaluator runs, and checked cold across independent environments before it is trusted.</description>
+    </item>
+    <item>
+      <title>Design locked: first-wall material selection</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-first-wall-material</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-first-wall-material</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Kronos has locked the reference material and panel arrangement for the breeder's first wall, the component most directly exposed to the burning plasma of anything in the machine.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes the Actual Code Behind Its Design-Point Numbers</title>
+      <link>https://www.kronosfusionenergy.com/news/physics-toolkit-open-on-github</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/physics-toolkit-open-on-github</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>The evaluator engine that re-derives the breeder's and burner's headline gain figures is public on GitHub, not a simplified stand-in.</description>
+    </item>
+    <item>
+      <title>Neutronics: What Becomes Radioactive, and for How Long</title>
+      <link>https://www.kronosfusionenergy.com/news/neutronics-activation-inventory</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/neutronics-activation-inventory</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>The same 14.1 MeV neutron flux that lets Hyperion breed tritium also activates the structure around it; Kronos is tracking that inventory as a distinct analysis from the breeding calculation itself.</description>
+    </item>
+    <item>
+      <title>Gate Closed: The Cryogenic Heat Load Balances at 20 K</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-cryogenic-heat-load</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-cryogenic-heat-load</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has closed the de-risking gate confirming its magnet cooling system clears the heat load it will see, at a cold point far less demanding than traditional superconductor baths.</description>
+    </item>
     <item>
       <title>Kronos Ties Every Published Figure Back to Its Source Numbers</title>
       <link>https://www.kronosfusionenergy.com/news/methods-figure-pipeline</link>

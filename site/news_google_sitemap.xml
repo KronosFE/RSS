@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-evaluator-engine</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-24T06:00:00-07:00</news:publication_date>
+      <news:title>Inside the Engine That Re-Derives Kronos's Headline Q = 3.076</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-first-wall-material</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-24T06:00:00-07:00</news:publication_date>
+      <news:title>Design locked: first-wall material selection</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/physics-toolkit-open-on-github</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-24T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes the Actual Code Behind Its Design-Point Numbers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/neutronics-activation-inventory</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-24T06:00:00-07:00</news:publication_date>
+      <news:title>Neutronics: What Becomes Radioactive, and for How Long</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-cryogenic-heat-load</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-24T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: The Cryogenic Heat Load Balances at 20 K</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-figure-pipeline</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-23T06:00:00-07:00</news:publication_date>
       <news:title>Burner Direct-Conversion Efficiency Frozen at η = 0.49</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-divertor-exhaust</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-22T06:00:00-07:00</news:publication_date>
-      <news:title>Design Locked: Hyperion's Divertor and Exhaust Path</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/de-risking-register-evidence-base-live</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-22T06:00:00-07:00</news:publication_date>
-      <news:title>De-Risking Register Evidence Base Posted as a Live Deposit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/neutronics-blanket-breeding</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-22T06:00:00-07:00</news:publication_date>
-      <news:title>Neutronics: The Blanket's Breeding Margin, at the Frozen Point</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-vde-control</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-22T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Closes De-Risking Gate on Fast-Acting Plasma Fault Control</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-negative-triangularity-stability</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-22T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: negative-triangularity shaping validated in nonlinear CGYRO</news:title>
     </news:news>
   </url>
 </urlset>
