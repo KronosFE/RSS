@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 11:23:45 -0700</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:32:06 -0700</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Checking Our Work: The Benchmark Harness and the Codes We Run Against</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-benchmark-harness</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-benchmark-harness</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>Kronos runs its own design choices through an independent turbulence code rather than grading them with its own toolkit alone, and says plainly where the two still disagree.</description>
+    </item>
+    <item>
+      <title>Design Locked: The Breeding Blanket</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-breeding-blanket</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-breeding-blanket</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Kronos has locked the reference design for the shell that turns fusion neutrons into tritium fuel, fixing its zoning and material placement to a breeding ratio with margin to spare.</description>
+    </item>
+    <item>
+      <title>Kronos Weighs Isotope Yield Against the Breeder's Neutron Budget</title>
+      <link>https://www.kronosfusionenergy.com/news/isotope-pathway-yield-vs-budget</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/isotope-pathway-yield-vs-budget</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>Every neutron the breeder produces is already accounted for before any isotope beyond tritium, including helium-3, can draw against the same budget.</description>
+    </item>
+    <item>
+      <title>Gate closed: the breeder's magnet set fails safe on quench</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-magnet-quench-protection</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-magnet-quench-protection</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has closed the base quench-protection gate behind the 16.84 T centrepost field, engineering a controlled shutdown into the coil set rather than leaving failure to chance.</description>
+    </item>
+    <item>
+      <title>Burner's Neutron Fraction Characterized at 5.44 Percent</title>
+      <link>https://www.kronosfusionenergy.com/news/burner-neutron-fraction-characterized</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/burner-neutron-fraction-characterized</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>A low-neutron result from the D-helium-3 burner is the physical basis for both of its fixed, non-naval housings.</description>
+    </item>
     <item>
       <title>Inside the Engine That Re-Derives Kronos's Headline Q = 3.076</title>
       <link>https://www.kronosfusionenergy.com/news/methods-evaluator-engine</link>
