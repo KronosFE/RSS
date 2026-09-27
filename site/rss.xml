@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 10:44:03 -0700</lastBuildDate>
-    <pubDate>Sat, 26 Sep 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:18:51 -0700</lastBuildDate>
+    <pubDate>Sun, 27 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Inside a CGYRO run: the turbulence workflow behind negative triangularity</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-cgyro-workflow</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-cgyro-workflow</guid>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>Kronos has published the CGYRO simulation workflow behind its negative-triangularity shaping choice, showing how the result is checked in a saturated nonlinear run rather than assumed from linear theory.</description>
+    </item>
+    <item>
+      <title>Design Locked: How Hyperion's Superconducting Tape Gets Joined</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-superconducting-joints</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-superconducting-joints</guid>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>No REBCO coil is wound from one continuous piece of tape — Kronos has fixed the joint geometry behind the breeder's 16.84-tesla centrepost field.</description>
+    </item>
+    <item>
+      <title>Figure-Reproduction Scripts Planned for the Open Toolkit</title>
+      <link>https://www.kronosfusionenergy.com/news/figure-reproduction-scripts-planned</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/figure-reproduction-scripts-planned</guid>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>Kronos plans to ship the scripts behind its published charts, not just the charts themselves, so a reader can regenerate a figure from the same numbers instead of trusting that the picture matches the paper.</description>
+    </item>
+    <item>
+      <title>Gate Closed: The Vacuum Vessel Holds Under Its Design Loads</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-vacuum-vessel-structure</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-vacuum-vessel-structure</guid>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has closed the structural gate on the pressure boundary that holds plasma vacuum against atmosphere, checking it against the breeder's full combined load case.</description>
+    </item>
+    <item>
+      <title>Plug Field Confirmed at 26.49 Tesla for the Tandem-Mirror Burner</title>
+      <link>https://www.kronosfusionenergy.com/news/central-cell-field-point-set-tandem-mirror</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/central-cell-field-point-set-tandem-mirror</guid>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos publishes the burner's plug field as a confirmed anchor point, while holding back the companion central-cell figure until it clears an internal cross-check.</description>
+    </item>
     <item>
       <title>Building the transport stack: SOLPS, GENE, and EIRENE, edge to core</title>
       <link>https://www.kronosfusionenergy.com/news/methods-transport-stack</link>

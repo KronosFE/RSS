@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-cgyro-workflow</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
+      <news:title>Inside a CGYRO run: the turbulence workflow behind negative triangularity</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-superconducting-joints</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
+      <news:title>Design Locked: How Hyperion's Superconducting Tape Gets Joined</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/figure-reproduction-scripts-planned</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
+      <news:title>Figure-Reproduction Scripts Planned for the Open Toolkit</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-vacuum-vessel-structure</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: The Vacuum Vessel Holds Under Its Design Loads</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/central-cell-field-point-set-tandem-mirror</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
+      <news:title>Plug Field Confirmed at 26.49 Tesla for the Tandem-Mirror Burner</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-transport-stack</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-26T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Fixes Hyperion's Centrepost Field at 16.84 Tesla, Paired With Its Structural Pass</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/methods-benchmark-harness</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-25T06:00:00-07:00</news:publication_date>
-      <news:title>Checking Our Work: The Benchmark Harness and the Codes We Run Against</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-breeding-blanket</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-25T06:00:00-07:00</news:publication_date>
-      <news:title>Design Locked: The Breeding Blanket</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/isotope-pathway-yield-vs-budget</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-25T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Weighs Isotope Yield Against the Breeder's Neutron Budget</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-magnet-quench-protection</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-25T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: the breeder's magnet set fails safe on quench</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/burner-neutron-fraction-characterized</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-25T06:00:00-07:00</news:publication_date>
-      <news:title>Burner's Neutron Fraction Characterized at 5.44 Percent</news:title>
     </news:news>
   </url>
 </urlset>
