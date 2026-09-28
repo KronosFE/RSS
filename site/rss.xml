@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sun, 27 Sep 2026 11:18:51 -0700</lastBuildDate>
-    <pubDate>Sun, 27 Sep 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:31:25 -0700</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Design Locked: The Tritium Fuel-Handling System</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-fuel-handling-system</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-fuel-handling-system</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Kronos has fixed the architecture that moves tritium from blanket to storage to plasma, sized to preserve breeding margin rather than lose it to processing.</description>
+    </item>
+    <item>
+      <title>Kronos Verifies One-Command Reproduction in a Clean Test Environment</title>
+      <link>https://www.kronosfusionenergy.com/news/one-command-reproduction-clean-environment-a</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/one-command-reproduction-clean-environment-a</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>A machine with nothing pre-installed reproduced the AI + Quantum method deposit's own reported output using a single command, the toughest version of a 'run it yourself' claim.</description>
+    </item>
+    <item>
+      <title>Validator suite goes live: recompute the gates yourself</title>
+      <link>https://www.kronosfusionenergy.com/news/validator-suite-live-recompute</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/validator-suite-live-recompute</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>Kronos's evidence base for its de-risking register can now be checked card by card in a browser, alongside the offline route that already let anyone rerun the numbers locally.</description>
+    </item>
+    <item>
+      <title>Gate Closed: Breeder's Divertor Clears Its Heat-Handling Check</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-divertor-heat-handling</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-divertor-heat-handling</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>A shaping result that suppresses edge turbulence also gives the breeder's exhaust path a steadier load to design against, closing a gate in the public Register.</description>
+    </item>
+    <item>
+      <title>Kronos Fixes the Burner's Mirror Plug Ratio, Holds Back the Unconfirmed Number</title>
+      <link>https://www.kronosfusionenergy.com/news/mirror-plug-ratio-fixed-burner</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/mirror-plug-ratio-fixed-burner</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>The plug field behind the tandem-mirror burner is canonical at 26.49 T, but Kronos says it would rather publish a gap than a plug ratio it can't yet defend.</description>
+    </item>
     <item>
       <title>Inside a CGYRO run: the turbulence workflow behind negative triangularity</title>
       <link>https://www.kronosfusionenergy.com/news/methods-cgyro-workflow</link>

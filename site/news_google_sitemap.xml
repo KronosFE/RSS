@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-fuel-handling-system</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
+      <news:title>Design Locked: The Tritium Fuel-Handling System</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/one-command-reproduction-clean-environment-a</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Verifies One-Command Reproduction in a Clean Test Environment</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/validator-suite-live-recompute</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
+      <news:title>Validator suite goes live: recompute the gates yourself</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-divertor-heat-handling</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: Breeder's Divertor Clears Its Heat-Handling Check</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/mirror-plug-ratio-fixed-burner</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Fixes the Burner's Mirror Plug Ratio, Holds Back the Unconfirmed Number</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-cgyro-workflow</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
       <news:title>Plug Field Confirmed at 26.49 Tesla for the Tandem-Mirror Burner</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/methods-transport-stack</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-26T06:00:00-07:00</news:publication_date>
-      <news:title>Building the transport stack: SOLPS, GENE, and EIRENE, edge to core</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-dec-stack</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-26T06:00:00-07:00</news:publication_date>
-      <news:title>Design Locked: Five-Channel Power-Conversion Stack for the Burner</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-point-evaluator-refreshed</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-26T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Refreshes the Open-Source Evaluator Behind Its Design-Point Numbers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-superconducting-joints</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-26T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: superconducting joints hold field within budget</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/centrepost-field-point-set-1684t</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-26T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Fixes Hyperion's Centrepost Field at 16.84 Tesla, Paired With Its Structural Pass</news:title>
     </news:news>
   </url>
 </urlset>
