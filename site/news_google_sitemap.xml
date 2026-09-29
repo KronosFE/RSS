@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-data-schema</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-29T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Standardizes the Schema Behind Its Public Datasets</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-reproduction-script</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-29T06:00:00-07:00</news:publication_date>
+      <news:title>One Command, One Number: Kronos Explains Its Reproduction Script</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-helium-3-capture-path</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-29T06:00:00-07:00</news:publication_date>
+      <news:title>Design locked: the helium-3 capture path</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-first-wall-survivability</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-29T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: Hyperion's First Wall Passes Its 14 MeV Neutron Survivability Check</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/negative-triangularity-validated-nonlinear-cgyro</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-29T06:00:00-07:00</news:publication_date>
+      <news:title>Negative Triangularity Validated in Nonlinear CGYRO at δ = −0.30</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/design-lock-fuel-handling-system</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Fixes the Burner's Mirror Plug Ratio, Holds Back the Unconfirmed Number</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/methods-cgyro-workflow</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
-      <news:title>Inside a CGYRO run: the turbulence workflow behind negative triangularity</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-superconducting-joints</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
-      <news:title>Design Locked: How Hyperion's Superconducting Tape Gets Joined</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/figure-reproduction-scripts-planned</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
-      <news:title>Figure-Reproduction Scripts Planned for the Open Toolkit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-vacuum-vessel-structure</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: The Vacuum Vessel Holds Under Its Design Loads</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/central-cell-field-point-set-tandem-mirror</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-27T06:00:00-07:00</news:publication_date>
-      <news:title>Plug Field Confirmed at 26.49 Tesla for the Tandem-Mirror Burner</news:title>
     </news:news>
   </url>
 </urlset>
