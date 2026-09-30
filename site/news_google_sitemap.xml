@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-provenance-system</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
+      <news:title>How Kronos Traces Every Published Number Back to Its Source</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-diagnostics-ports</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
+      <news:title>Design Locked: Diagnostics Port Layout</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/one-command-reproduction-clean-environment-b</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
+      <news:title>Second Independent Environment Reproduces the Same Numbers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-plug-density-operating-point</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Closes De-Risking Gate on the Burner's Plug-Density Operating Point</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/elm-suppression-modeled-negative-triangularity</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
+      <news:title>Modeling shows negative triangularity sidesteps edge-localized modes entirely</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-data-schema</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-09-29T06:00:00-07:00</news:publication_date>
       <news:title>Negative Triangularity Validated in Nonlinear CGYRO at δ = −0.30</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-fuel-handling-system</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
-      <news:title>Design Locked: The Tritium Fuel-Handling System</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/one-command-reproduction-clean-environment-a</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Verifies One-Command Reproduction in a Clean Test Environment</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/validator-suite-live-recompute</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
-      <news:title>Validator suite goes live: recompute the gates yourself</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-divertor-heat-handling</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: Breeder's Divertor Clears Its Heat-Handling Check</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/mirror-plug-ratio-fixed-burner</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-28T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Fixes the Burner's Mirror Plug Ratio, Holds Back the Unconfirmed Number</news:title>
     </news:news>
   </url>
 </urlset>

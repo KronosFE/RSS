@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 12:21:59 -0700</lastBuildDate>
-    <pubDate>Tue, 29 Sep 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:12:49 -0700</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>How Kronos Traces Every Published Number Back to Its Source</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-provenance-system</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-provenance-system</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>A provenance system links figures like the breeder's tritium-breeding ratio and centrepost stress result to the exact assumption set and code path that produced them.</description>
+    </item>
+    <item>
+      <title>Design Locked: Diagnostics Port Layout</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-diagnostics-ports</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-diagnostics-ports</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Kronos has fixed the physical openings that will let instruments see into Hyperion's plasma without breaching the vacuum boundary or the shielding around its 16.84 T centrepost.</description>
+    </item>
+    <item>
+      <title>Second Independent Environment Reproduces the Same Numbers</title>
+      <link>https://www.kronosfusionenergy.com/news/one-command-reproduction-clean-environment-b</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/one-command-reproduction-clean-environment-b</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>A second, differently configured environment has now reproduced the same output from Kronos's AI-plus-quantum method deposit, turning one clean run into the start of a pattern.</description>
+    </item>
+    <item>
+      <title>Kronos Closes De-Risking Gate on the Burner's Plug-Density Operating Point</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-plug-density-operating-point</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-plug-density-operating-point</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos states the burner's plug-density requirement in the open as part of closing a de-risking gate, treating a hard number as a fact to publish rather than a caveat to bury.</description>
+    </item>
+    <item>
+      <title>Modeling shows negative triangularity sidesteps edge-localized modes entirely</title>
+      <link>https://www.kronosfusionenergy.com/news/elm-suppression-modeled-negative-triangularity</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/elm-suppression-modeled-negative-triangularity</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Rather than mitigating the heat pulses of a collapsing plasma edge, Kronos's shaping choice is modeled to stop the pedestal that collapses from ever forming.</description>
+    </item>
     <item>
       <title>Kronos Standardizes the Schema Behind Its Public Datasets</title>
       <link>https://www.kronosfusionenergy.com/news/methods-data-schema</link>
