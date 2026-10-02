@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 12:29:46 -0700</lastBuildDate>
-    <pubDate>Thu, 01 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:13:45 -0700</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Why Kronos Publishes Ranges, Not Rounded Points, on Its Breeding Ratio</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-uncertainty-method</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-uncertainty-method</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>The breeder's net tritium-breeding figure ships as two numbers under two named configurations, not one convenient average, and Kronos says that is a deliberate policy, not an exception.</description>
+    </item>
+    <item>
+      <title>Design locked: the Aegis housing</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-aegis-housing</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-aegis-housing</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Kronos has locked the housing configuration for Aegis, its fixed forward-base defense generator, built around the same low-neutron D-³He burner core as the MetroVolt data-center product.</description>
+    </item>
+    <item>
+      <title>Kronos Refreshes Data-Availability Statements Across All Six Live Deposits</title>
+      <link>https://www.kronosfusionenergy.com/news/data-availability-statements-refreshed</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/data-availability-statements-refreshed</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>Routine housekeeping keeps the license, contents, and reproduction instructions current for the breeder, burner, magnet, AI-method, register, and turbulence datasets alike.</description>
+    </item>
+    <item>
+      <title>Digital Twin Reproduces the Frozen Breeder Design Point</title>
+      <link>https://www.kronosfusionenergy.com/news/digital-twin-reproduces-frozen-breeder-design-point</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/digital-twin-reproduces-frozen-breeder-design-point</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Before trusting the twin with a control policy or a structural margin, Kronos checked that it reproduces Hyperion's own reference numbers first.</description>
+    </item>
+    <item>
+      <title>Load-Following Modeled Against a Grid Demand Profile</title>
+      <link>https://www.kronosfusionenergy.com/news/load-following-modeled-grid-demand-profile</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/load-following-modeled-grid-demand-profile</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos has tested, on its digital twin, whether the burner platform can vary output to track demand rather than run at a single fixed level.</description>
+    </item>
     <item>
       <title>Kronos Locks the Breeder's Reference Assembly Sequence</title>
       <link>https://www.kronosfusionenergy.com/news/design-lock-assembly-sequence</link>

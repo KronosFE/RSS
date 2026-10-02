@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-uncertainty-method</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-02T06:00:00-07:00</news:publication_date>
+      <news:title>Why Kronos Publishes Ranges, Not Rounded Points, on Its Breeding Ratio</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-aegis-housing</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-02T06:00:00-07:00</news:publication_date>
+      <news:title>Design locked: the Aegis housing</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/data-availability-statements-refreshed</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-02T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Refreshes Data-Availability Statements Across All Six Live Deposits</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/digital-twin-reproduces-frozen-breeder-design-point</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-02T06:00:00-07:00</news:publication_date>
+      <news:title>Digital Twin Reproduces the Frozen Breeder Design Point</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/load-following-modeled-grid-demand-profile</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-02T06:00:00-07:00</news:publication_date>
+      <news:title>Load-Following Modeled Against a Grid Demand Profile</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/design-lock-assembly-sequence</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-01T06:00:00-07:00</news:publication_date>
       <news:title>Vertical-Displacement Event Caught in Simulation, at the Plasma's Own Timescale</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/methods-provenance-system</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
-      <news:title>How Kronos Traces Every Published Number Back to Its Source</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-diagnostics-ports</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
-      <news:title>Design Locked: Diagnostics Port Layout</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/one-command-reproduction-clean-environment-b</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
-      <news:title>Second Independent Environment Reproduces the Same Numbers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-plug-density-operating-point</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Closes De-Risking Gate on the Burner's Plug-Density Operating Point</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/elm-suppression-modeled-negative-triangularity</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-09-30T06:00:00-07:00</news:publication_date>
-      <news:title>Modeling shows negative triangularity sidesteps edge-localized modes entirely</news:title>
     </news:news>
   </url>
 </urlset>
