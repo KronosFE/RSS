@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-verification-method</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-03T06:00:00-07:00</news:publication_date>
+      <news:title>What 'Validated' Means at Kronos: The Bar for the Word</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-direct-dc-output-stage</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-03T06:00:00-07:00</news:publication_date>
+      <news:title>Design Locked: The Direct-DC Output Stage</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-metrovolt-housing</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-03T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Locks the Design of the MetroVolt Housing</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/every-deposit-cc-by-4-0</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-03T06:00:00-07:00</news:publication_date>
+      <news:title>Every Kronos Zenodo deposit ships under CC BY 4.0</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-helium3-coproduction</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-03T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: Helium-3 Co-Production Path Off the Breeder</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-uncertainty-method</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-02T06:00:00-07:00</news:publication_date>
       <news:title>Load-Following Modeled Against a Grid Demand Profile</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-assembly-sequence</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-01T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Locks the Breeder's Reference Assembly Sequence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/cold-repro-confirmed-outside-runner</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-01T06:00:00-07:00</news:publication_date>
-      <news:title>Outside runner confirms the AI + Quantum method's cold reproduction</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-dec-stack</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-01T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: Burner's Five-Stage Power Conversion Validated Together</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-burner-efficiency-point</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-01T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Closes De-Risking Gate on Burner Efficiency, Freezing η_DEC at 0.49</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/vertical-displacement-event-caught-in-simulation</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-01T06:00:00-07:00</news:publication_date>
-      <news:title>Vertical-Displacement Event Caught in Simulation, at the Plasma's Own Timescale</news:title>
     </news:news>
   </url>
 </urlset>

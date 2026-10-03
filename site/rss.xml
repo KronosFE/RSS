@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 12:13:45 -0700</lastBuildDate>
-    <pubDate>Fri, 02 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:54:20 -0700</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>What 'Validated' Means at Kronos: The Bar for the Word</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-verification-method</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-verification-method</guid>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>Kronos uses a narrow, fixed vocabulary, modeled, validated, designed, locked, built, measured, and says a weaker claim should never borrow a stronger word.</description>
+    </item>
+    <item>
+      <title>Design Locked: The Direct-DC Output Stage</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-direct-dc-output-stage</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-direct-dc-output-stage</guid>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Kronos has fixed the electrical interface where the burner's five-channel conversion stack delivers power, the boundary both Aegis and MetroVolt build outward from.</description>
+    </item>
+    <item>
+      <title>Kronos Locks the Design of the MetroVolt Housing</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-metrovolt-housing</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-metrovolt-housing</guid>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>The data-center housing built around the same low-neutron burner core as Aegis is now fixed on paper, arranged for direct-DC delivery into a data-center campus.</description>
+    </item>
+    <item>
+      <title>Every Kronos Zenodo deposit ships under CC BY 4.0</title>
+      <link>https://www.kronosfusionenergy.com/news/every-deposit-cc-by-4-0</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/every-deposit-cc-by-4-0</guid>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>Breeder, burner, magnet, method, and turbulence datasets all carry the most permissive open license Creative Commons offers, letting anyone reuse them commercially with attribution as the only condition.</description>
+    </item>
+    <item>
+      <title>Gate Closed: Helium-3 Co-Production Path Off the Breeder</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-helium3-coproduction</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-helium3-coproduction</guid>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>A by-product capture route riding on the breeder's tritium-breeding blanket is now certified sound in design, with an honest caveat about what it does not yet do.</description>
+    </item>
     <item>
       <title>Why Kronos Publishes Ranges, Not Rounded Points, on Its Breeding Ratio</title>
       <link>https://www.kronosfusionenergy.com/news/methods-uncertainty-method</link>
