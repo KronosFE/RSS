@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 11:07:22 -0700</lastBuildDate>
-    <pubDate>Sun, 04 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:27:52 -0700</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>A machine as a list of checkable claims: the register method</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-register-method</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-register-method</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>Kronos explains the methodology behind its public de-risking Register: a fusion machine broken into individually checkable claims, each with its own condition and honest status, rather than a single confidence score.</description>
+    </item>
+    <item>
+      <title>Design Locked: How Hyperion's Cryoplant Ties Into the Rest of the Machine</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-cryoplant-integration</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-cryoplant-integration</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>REBCO tape makes 20 kelvin a workable operating point for a 16.84-tesla magnet — Kronos has now fixed how the cold plant physically interfaces with the vessel and magnets around it.</description>
+    </item>
+    <item>
+      <title>Benchmark Data Ships Alongside the Claim It Supports</title>
+      <link>https://www.kronosfusionenergy.com/news/benchmark-data-ships-with-claim</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/benchmark-data-ships-with-claim</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>Kronos published the full CGYRO run set behind its negative-triangularity result the same day as the claim itself, not as a follow-up once the number had already circulated.</description>
+    </item>
+    <item>
+      <title>Divertor Peak Heat Load Modeled Within Design Limit</title>
+      <link>https://www.kronosfusionenergy.com/news/divertor-peak-heat-load-within-design-limit</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/divertor-peak-heat-load-within-design-limit</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos has modeled the divertor's peak heat load at the frozen breeder design point and found it within the limit for the chosen plasma-facing material.</description>
+    </item>
+    <item>
+      <title>Kronos Bounds Scrape-Off-Layer Heat Flux Within the Divertor's Design Envelope</title>
+      <link>https://www.kronosfusionenergy.com/news/scrape-off-layer-heat-flux-bounded</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/scrape-off-layer-heat-flux-bounded</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Edge-transport modeling at the frozen Hyperion design point returns a peak heat-flux figure the divertor is built to absorb, keeping the boundary load inside the machine's design limits.</description>
+    </item>
     <item>
       <title>An open invitation: how to challenge a Kronos number</title>
       <link>https://www.kronosfusionenergy.com/news/methods-open-review</link>
