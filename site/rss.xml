@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 14:27:52 -0700</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:29:35 -0700</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Where the Model Meets the Metal: The Twin-vs-Hardware Plan</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-twin-vs-hardware</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-twin-vs-hardware</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>Kronos is naming, before any hardware exists, exactly how it will check its digital twin against real sensor readings once the breeder is instrumented.</description>
+    </item>
+    <item>
+      <title>Kronos Locks the Centrepost at 16.84 Tesla, Passing Its Structural Check at 181 MPa</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-centrepost</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-centrepost</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>The hardest structural problem in the machine, a central column holding a high field in a small radius under full neutron flux, is now fixed to a geometry that passes its qualified stress margin.</description>
+    </item>
+    <item>
+      <title>Design locked: breeder's radial build recovers about two centimeters</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-radial-build</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-radial-build</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Tighter shielding and structural design around the centrepost freed roughly two centimeters of radial space in a machine where every centimeter competes directly with field strength and shielding.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes a Provenance Trail for Every Canonical Number</title>
+      <link>https://www.kronosfusionenergy.com/news/provenance-trail-canonical-number</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/provenance-trail-canonical-number</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>Each public figure in the de-risking Register now carries a traceable path back to the evaluator and inputs that produced it.</description>
+    </item>
+    <item>
+      <title>Kronos Closes Gate Confirming Current Drive Sustains the Burn for a Full Pulse</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-current-drive-sustainment</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-current-drive-sustainment</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Holding the breeder's 9.66 MA plasma current steady takes more than an initial ramp-up; Kronos says it has now checked the sustainment approach for the whole pulse, not just the start.</description>
+    </item>
     <item>
       <title>A machine as a list of checkable claims: the register method</title>
       <link>https://www.kronosfusionenergy.com/news/methods-register-method</link>
