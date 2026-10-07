@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/methods-toolchain-update</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Opens a Recurring Toolchain-Update Log</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-startup-scenario</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Closes Gate on Startup Scenario From Cold Vessel to Burning Plasma</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-fueling-inventory</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
+      <news:title>Gate closed: fueling rate matches the burn, and the books close</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/center-stack-shielding-meets-fluence-target</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
+      <news:title>Center-Stack Shielding Modeled to Hold Neutron Damage Within Its Target</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/first-wall-lifetime-estimated-under-fluence</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
+      <news:title>First-Wall Lifetime Estimated Under 14.1 MeV Neutron Fluence</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-twin-vs-hardware</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-06T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Closes Gate Confirming Current Drive Sustains the Burn for a Full Pulse</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/methods-register-method</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-05T06:00:00-07:00</news:publication_date>
-      <news:title>A machine as a list of checkable claims: the register method</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-cryoplant-integration</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-05T06:00:00-07:00</news:publication_date>
-      <news:title>Design Locked: How Hyperion's Cryoplant Ties Into the Rest of the Machine</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/benchmark-data-ships-with-claim</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-05T06:00:00-07:00</news:publication_date>
-      <news:title>Benchmark Data Ships Alongside the Claim It Supports</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/divertor-peak-heat-load-within-design-limit</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-05T06:00:00-07:00</news:publication_date>
-      <news:title>Divertor Peak Heat Load Modeled Within Design Limit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/scrape-off-layer-heat-flux-bounded</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-05T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Bounds Scrape-Off-Layer Heat Flux Within the Divertor's Design Envelope</news:title>
     </news:news>
   </url>
 </urlset>

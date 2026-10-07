@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 12:29:35 -0700</lastBuildDate>
-    <pubDate>Tue, 06 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:56:37 -0700</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Kronos Opens a Recurring Toolchain-Update Log</title>
+      <link>https://www.kronosfusionenergy.com/news/methods-toolchain-update</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/methods-toolchain-update</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Methods Update</category>
+      <description>A new, regularly recurring slot in the Science Log will track maintenance on the public toolkit, validator hub, digital twin, and figure pipeline, even when there is no headline change to report.</description>
+    </item>
+    <item>
+      <title>Kronos Closes Gate on Startup Scenario From Cold Vessel to Burning Plasma</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-startup-scenario</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-startup-scenario</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Getting the breeder from an empty, cold vessel to its frozen design point is its own staged engineering problem, and Kronos says the full sequence now clears every operating limit in simulation.</description>
+    </item>
+    <item>
+      <title>Gate closed: fueling rate matches the burn, and the books close</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-fueling-inventory</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-fueling-inventory</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has closed the de-risking gate confirming pellet-fueling rate can match fuel consumption across a burn cycle, with the resulting tritium inventory balancing against the breeder's net breeding margin.</description>
+    </item>
+    <item>
+      <title>Center-Stack Shielding Modeled to Hold Neutron Damage Within Its Target</title>
+      <link>https://www.kronosfusionenergy.com/news/center-stack-shielding-meets-fluence-target</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/center-stack-shielding-meets-fluence-target</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Shielding between the plasma and the superconducting centrepost coil is sized against a fluence budget set for the coil's service life at 16.84 tesla.</description>
+    </item>
+    <item>
+      <title>First-Wall Lifetime Estimated Under 14.1 MeV Neutron Fluence</title>
+      <link>https://www.kronosfusionenergy.com/news/first-wall-lifetime-estimated-under-fluence</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/first-wall-lifetime-estimated-under-fluence</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Every D-T fusion event fires a 14.1 MeV neutron straight at the first wall; Kronos has now estimated how long a candidate material can take that punishment before it needs replacing.</description>
+    </item>
     <item>
       <title>Where the Model Meets the Metal: The Twin-vs-Hardware Plan</title>
       <link>https://www.kronosfusionenergy.com/news/methods-twin-vs-hardware</link>
