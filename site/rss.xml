@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 12:56:37 -0700</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:53:23 -0700</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Design Locked: Routing Hundreds of Kelvin Across Inches, Not Feet</title>
+      <link>https://www.kronosfusionenergy.com/news/design-lock-thermal-management-layout</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-lock-thermal-management-layout</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Kronos has fixed the reference layout for moving heat from a burning plasma core to a magnet set held near 20 kelvin, just meters away.</description>
+    </item>
+    <item>
+      <title>Open-Data Recap: What's Live, What's Runnable</title>
+      <link>https://www.kronosfusionenergy.com/news/open-data-recap-live-runnable</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/open-data-recap-live-runnable</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>A standing scorecard of every dataset Kronos has posted so far, and an equally plain list of what hasn't cleared the gate yet.</description>
+    </item>
+    <item>
+      <title>An Open Invitation: Reproduce Our Numbers</title>
+      <link>https://www.kronosfusionenergy.com/news/open-invitation-reproduce-our-numbers</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/open-invitation-reproduce-our-numbers</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Open-Data Update</category>
+      <description>Kronos is inviting outside groups to independently reproduce any of its six public physics deposits and report back, agreement or disagreement both welcome.</description>
+    </item>
+    <item>
+      <title>Kronos Closes De-Risking Gate on the Breeder's Steady-State Operating Window</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-steady-state-window</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-steady-state-window</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Rather than certifying a single design point, Kronos has mapped the surrounding region in current, density, and shaping space where the breeder can run indefinitely without drifting toward a limit.</description>
+    </item>
+    <item>
+      <title>Magnet quench protection validated in model for centrepost and plug coils</title>
+      <link>https://www.kronosfusionenergy.com/news/magnet-quench-protection-validated-in-model</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/magnet-quench-protection-validated-in-model</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Modeled fault scenarios show the coil design behind both the breeder's centrepost and the burner's plug routes a superconducting fault safely away rather than concentrating it at the fault site.</description>
+    </item>
     <item>
       <title>Kronos Opens a Recurring Toolchain-Update Log</title>
       <link>https://www.kronosfusionenergy.com/news/methods-toolchain-update</link>

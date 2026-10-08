@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-lock-thermal-management-layout</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
+      <news:title>Design Locked: Routing Hundreds of Kelvin Across Inches, Not Feet</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/open-data-recap-live-runnable</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
+      <news:title>Open-Data Recap: What's Live, What's Runnable</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/open-invitation-reproduce-our-numbers</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
+      <news:title>An Open Invitation: Reproduce Our Numbers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-steady-state-window</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Closes De-Risking Gate on the Breeder's Steady-State Operating Window</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/magnet-quench-protection-validated-in-model</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
+      <news:title>Magnet quench protection validated in model for centrepost and plug coils</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/methods-toolchain-update</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
       <news:title>First-Wall Lifetime Estimated Under 14.1 MeV Neutron Fluence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/methods-twin-vs-hardware</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-06T06:00:00-07:00</news:publication_date>
-      <news:title>Where the Model Meets the Metal: The Twin-vs-Hardware Plan</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-centrepost</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-06T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Locks the Centrepost at 16.84 Tesla, Passing Its Structural Check at 181 MPa</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-radial-build</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-06T06:00:00-07:00</news:publication_date>
-      <news:title>Design locked: breeder's radial build recovers about two centimeters</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/provenance-trail-canonical-number</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-06T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes a Provenance Trail for Every Canonical Number</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-current-drive-sustainment</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-06T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Closes Gate Confirming Current Drive Sustains the Burn for a Full Pulse</news:title>
     </news:news>
   </url>
 </urlset>
