@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/reference-machine-point-frozen-breeder</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Freezes the Breeder's Reference Design Point</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-transport-assumptions</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
+      <news:title>Gate closed: the turbulence case behind breeder confinement holds</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/vacuum-vessel-stress-under-thermal-load-bounded</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
+      <news:title>Breeder's Vacuum-Vessel Stress Bounded Under Thermal Load</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/cryogenic-heat-load-balanced-20k</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Balances Cryogenic Heat Load at the Magnets' 20 K Operating Point</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/superconducting-joint-resistance-within-budget</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
+      <news:title>Superconducting Joint Resistance Modeled Within Budget</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/design-lock-thermal-management-layout</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
       <news:title>Magnet quench protection validated in model for centrepost and plug coils</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/methods-toolchain-update</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Opens a Recurring Toolchain-Update Log</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-startup-scenario</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Closes Gate on Startup Scenario From Cold Vessel to Burning Plasma</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-fueling-inventory</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: fueling rate matches the burn, and the books close</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/center-stack-shielding-meets-fluence-target</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
-      <news:title>Center-Stack Shielding Modeled to Hold Neutron Damage Within Its Target</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/first-wall-lifetime-estimated-under-fluence</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-07T06:00:00-07:00</news:publication_date>
-      <news:title>First-Wall Lifetime Estimated Under 14.1 MeV Neutron Fluence</news:title>
     </news:news>
   </url>
 </urlset>

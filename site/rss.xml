@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 12:53:23 -0700</lastBuildDate>
-    <pubDate>Thu, 08 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:30:40 -0700</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Kronos Freezes the Breeder's Reference Design Point</title>
+      <link>https://www.kronosfusionenergy.com/news/reference-machine-point-frozen-breeder</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/reference-machine-point-frozen-breeder</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Every design lock in Kronos's build-out is now checked against one fixed set of numbers, validated in nonlinear turbulence simulation, ahead of construction targeted for 2027.</description>
+    </item>
+    <item>
+      <title>Gate closed: the turbulence case behind breeder confinement holds</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-transport-assumptions</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-transport-assumptions</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Nonlinear gyrokinetic simulations back the confinement assumptions behind the breeder's Q = 3.076 design point, confirming the shaping physics does what theory predicted rather than assuming it.</description>
+    </item>
+    <item>
+      <title>Breeder's Vacuum-Vessel Stress Bounded Under Thermal Load</title>
+      <link>https://www.kronosfusionenergy.com/news/vacuum-vessel-stress-under-thermal-load-bounded</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/vacuum-vessel-stress-under-thermal-load-bounded</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>A 1-D thermal and structural model of the breeder's outer shell finds peak stress stays inside the design envelope.</description>
+    </item>
+    <item>
+      <title>Kronos Balances Cryogenic Heat Load at the Magnets' 20 K Operating Point</title>
+      <link>https://www.kronosfusionenergy.com/news/cryogenic-heat-load-balanced-20k</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/cryogenic-heat-load-balanced-20k</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Every heat source into the REBCO magnet system, from joint resistance to radiative leaks, now has to clear the cryoplant's removal capacity, and Kronos says, in its modeled architecture, it does.</description>
+    </item>
+    <item>
+      <title>Superconducting Joint Resistance Modeled Within Budget</title>
+      <link>https://www.kronosfusionenergy.com/news/superconducting-joint-resistance-within-budget</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/superconducting-joint-resistance-within-budget</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Modeling shows the resistance of REBCO tape joints in the breeder's magnet set stays within the budget needed to hold the centrepost's 16.84 T field without excess cryogenic load.</description>
+    </item>
     <item>
       <title>Design Locked: Routing Hundreds of Kelvin Across Inches, Not Feet</title>
       <link>https://www.kronosfusionenergy.com/news/design-lock-thermal-management-layout</link>
