@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 12:30:40 -0700</lastBuildDate>
-    <pubDate>Fri, 09 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:31:12 -0700</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Kronos Closes Thermal-Management Gate From Plasma Edge to Magnet Set</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-thermal-management</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-thermal-management</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>A burning plasma core and a cryogenic magnet set sit meters apart inside the same machine; Kronos says it has now confirmed heat management holds across that entire gradient, with no bottleneck along the path.</description>
+    </item>
+    <item>
+      <title>Gate closed: the activation and waste case is stamped</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-activation-waste</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-activation-waste</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has closed the de-risking gate on what becomes radioactive under neutron exposure in the breeder, and for how long, while the low-neutron burner line keeps its own activation picture materially simpler.</description>
+    </item>
+    <item>
+      <title>Gate Closed: Plasma Boundary Holds Under Its Scrape-Off-Layer Load</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-sol-loads</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-sol-loads</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Heat and particle loads at the edge of Hyperion's plasma stay within design limits, helped by the same shaping that steadies the divertor.</description>
+    </item>
+    <item>
+      <title>Helium-3 Co-Production Rate Estimated for the Breeder By-Product Stream</title>
+      <link>https://www.kronosfusionenergy.com/news/helium-3-co-production-rate-estimated</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/helium-3-co-production-rate-estimated</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>The same neutron economy that closes Hyperion's tritium breeding margin opens a separate by-product stream of helium-3; Kronos has begun sizing how much.</description>
+    </item>
+    <item>
+      <title>Direct-Energy-Conversion Efficiency Stacked to η_DEC = 0.49 Across Five Channels</title>
+      <link>https://www.kronosfusionenergy.com/news/dec-efficiency-stacked-five-channels</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/dec-efficiency-stacked-five-channels</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos combines five separate conversion methods in series to capture its burner's charged-particle exhaust, reaching a combined efficiency of 0.49 at the frozen design point.</description>
+    </item>
     <item>
       <title>Kronos Freezes the Breeder's Reference Design Point</title>
       <link>https://www.kronosfusionenergy.com/news/reference-machine-point-frozen-breeder</link>

@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-thermal-management</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-10T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Closes Thermal-Management Gate From Plasma Edge to Magnet Set</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-activation-waste</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-10T06:00:00-07:00</news:publication_date>
+      <news:title>Gate closed: the activation and waste case is stamped</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-sol-loads</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-10T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: Plasma Boundary Holds Under Its Scrape-Off-Layer Load</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/helium-3-co-production-rate-estimated</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-10T06:00:00-07:00</news:publication_date>
+      <news:title>Helium-3 Co-Production Rate Estimated for the Breeder By-Product Stream</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/dec-efficiency-stacked-five-channels</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-10T06:00:00-07:00</news:publication_date>
+      <news:title>Direct-Energy-Conversion Efficiency Stacked to η_DEC = 0.49 Across Five Channels</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/reference-machine-point-frozen-breeder</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
       <news:title>Superconducting Joint Resistance Modeled Within Budget</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/design-lock-thermal-management-layout</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
-      <news:title>Design Locked: Routing Hundreds of Kelvin Across Inches, Not Feet</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/open-data-recap-live-runnable</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
-      <news:title>Open-Data Recap: What's Live, What's Runnable</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/open-invitation-reproduce-our-numbers</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
-      <news:title>An Open Invitation: Reproduce Our Numbers</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-steady-state-window</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Closes De-Risking Gate on the Breeder's Steady-State Operating Window</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/magnet-quench-protection-validated-in-model</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-08T06:00:00-07:00</news:publication_date>
-      <news:title>Magnet quench protection validated in model for centrepost and plug coils</news:title>
     </news:news>
   </url>
 </urlset>
