@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 11:31:12 -0700</lastBuildDate>
-    <pubDate>Sat, 10 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:49:17 -0700</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Gate Closed: Control Policy Proven in the Twin, Before Hardware</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-control-policy-validation</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-control-policy-validation</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Every control policy for Hyperion, from disruption correction to startup sequencing, now has to clear the digital twin before it is ever positioned near real plasma.</description>
+    </item>
+    <item>
+      <title>Gate Closed: Diagnostics Coverage Sees What the Machine Needs Seen</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-diagnostics-coverage</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-diagnostics-coverage</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has closed the gate confirming its breeder's sensor suite covers what its control system needs to measure, with enough redundancy that no single failure blinds a control loop.</description>
+    </item>
+    <item>
+      <title>Kronos Estimates the Current-Drive Requirement for Sustained Burn</title>
+      <link>https://www.kronosfusionenergy.com/news/current-drive-requirement-estimated-sustained-burn</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/current-drive-requirement-estimated-sustained-burn</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Sustaining the breeder's 9.66 MA plasma current continuously, not just achieving it once, requires replacing the portion that decays resistively.</description>
+    </item>
+    <item>
+      <title>Beta-limit gap named, not yet closed</title>
+      <link>https://www.kronosfusionenergy.com/news/beta-limit-performance-characterized-open-gate</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/beta-limit-performance-characterized-open-gate</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos is flagging an unresolved gap between its computed and target normalized-pressure limits for the breeder, rather than leaving the question undiscussed.</description>
+    </item>
+    <item>
+      <title>Kronos Models Isotope Yield Against the Breeder's Neutron Budget</title>
+      <link>https://www.kronosfusionenergy.com/news/isotope-yield-modeled-against-neutron-budget</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/isotope-yield-modeled-against-neutron-budget</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Every neutron Hyperion produces is accounted for before any of it is credited toward a medical-isotope pathway.</description>
+    </item>
     <item>
       <title>Kronos Closes Thermal-Management Gate From Plasma Edge to Magnet Set</title>
       <link>https://www.kronosfusionenergy.com/news/gate-thermal-management</link>

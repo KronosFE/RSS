@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-control-policy-validation</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: Control Policy Proven in the Twin, Before Hardware</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-diagnostics-coverage</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: Diagnostics Coverage Sees What the Machine Needs Seen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/current-drive-requirement-estimated-sustained-burn</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Estimates the Current-Drive Requirement for Sustained Burn</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/beta-limit-performance-characterized-open-gate</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
+      <news:title>Beta-limit gap named, not yet closed</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/isotope-yield-modeled-against-neutron-budget</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Models Isotope Yield Against the Breeder's Neutron Budget</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/gate-thermal-management</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-10T06:00:00-07:00</news:publication_date>
       <news:title>Direct-Energy-Conversion Efficiency Stacked to η_DEC = 0.49 Across Five Channels</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/reference-machine-point-frozen-breeder</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Freezes the Breeder's Reference Design Point</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-transport-assumptions</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: the turbulence case behind breeder confinement holds</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/vacuum-vessel-stress-under-thermal-load-bounded</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
-      <news:title>Breeder's Vacuum-Vessel Stress Bounded Under Thermal Load</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/cryogenic-heat-load-balanced-20k</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Balances Cryogenic Heat Load at the Magnets' 20 K Operating Point</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/superconducting-joint-resistance-within-budget</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-09T06:00:00-07:00</news:publication_date>
-      <news:title>Superconducting Joint Resistance Modeled Within Budget</news:title>
     </news:news>
   </url>
 </urlset>
