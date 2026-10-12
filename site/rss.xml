@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 11:49:17 -0700</lastBuildDate>
-    <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:06:48 -0700</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Gate closed: the Aegis fixed forward-base configuration fits</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-aegis-configuration</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-aegis-configuration</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos confirms the burner core's engineering figures fit the fixed-installation envelope of Aegis, its forward-base defense housing, not a naval or mobile platform.</description>
+    </item>
+    <item>
+      <title>Gate Closed: Design-Point Method Passes Reproducibility Check</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-reproducibility</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-reproducibility</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>An outside runner starting from nothing but the published method and data can now recover the same result Kronos gets, across three independent computing environments.</description>
+    </item>
+    <item>
+      <title>Kronos Closes Fidelity Gate: Digital Twin Reproduces the Frozen Design Point</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-twin-fidelity</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-twin-fidelity</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Every other simulation-based gate in Kronos's de-risking register depends on this one: that the digital twin actually agrees with the reference breeder design rather than drifting from it.</description>
+    </item>
+    <item>
+      <title>The Mirror's Hardest Number: Plug Density, Stated in the Open</title>
+      <link>https://www.kronosfusionenergy.com/news/plug-density-requirement-stated-in-the-open</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/plug-density-requirement-stated-in-the-open</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos names plug density — one of the hardest numbers in its tandem-mirror burner design — as an open item, rather than rounding it into the background of an otherwise strong design point.</description>
+    </item>
+    <item>
+      <title>Burner's Fueling Rate Checked Against Its Own Modeled Burn Consumption, and It Holds</title>
+      <link>https://www.kronosfusionenergy.com/news/burner-fueling-rate-matched-to-burn</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/burner-fueling-rate-matched-to-burn</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>A digital-twin check confirms the D-³He tandem mirror can refuel as fast as it burns, keeping density inside the band its engineering-gain figure assumes.</description>
+    </item>
     <item>
       <title>Gate Closed: Control Policy Proven in the Twin, Before Hardware</title>
       <link>https://www.kronosfusionenergy.com/news/gate-control-policy-validation</link>
