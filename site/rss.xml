@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 15:06:48 -0700</lastBuildDate>
-    <pubDate>Mon, 12 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:13:41 -0700</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Gate closed: direct-DC power reaches the campus boundary clean</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-direct-dc-delivery</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-direct-dc-delivery</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has closed the de-risking gate confirming MetroVolt can deliver its direct energy-conversion output as clean direct current at the campus interface, without an unnecessary AC conversion stage.</description>
+    </item>
+    <item>
+      <title>Gate Closed: MetroVolt's Data-Center Configuration Fits Its Shared Burner Core</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-metrovolt-configuration</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-metrovolt-configuration</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>One low-neutron D-³He core, two housings — Kronos has confirmed MetroVolt's data-center configuration fits its output characteristics independently of Aegis.</description>
+    </item>
+    <item>
+      <title>Shutdown and Ramp-Down Modeled Without a Forced Disruption</title>
+      <link>https://www.kronosfusionenergy.com/news/shutdown-ramp-down-modeled</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/shutdown-ramp-down-modeled</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos checked the reverse of the startup path, bringing plasma current and centrepost field back down cleanly, rather than assuming a machine that starts well also stops well.</description>
+    </item>
+    <item>
+      <title>Startup Modeled End to End, Cold Plasma to the Frozen Point</title>
+      <link>https://www.kronosfusionenergy.com/news/startup-scenario-modeled-end-to-end</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/startup-scenario-modeled-end-to-end</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos has run its breeder's full startup sequence in the digital twin and confirmed the modeled path reaches the frozen design point without breaking the machine's structural margin.</description>
+    </item>
+    <item>
+      <title>Kronos Checks Confinement Scaling for a Compact Spherical Tokamak</title>
+      <link>https://www.kronosfusionenergy.com/news/confinement-scaling-checked-compact-st</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/confinement-scaling-checked-compact-st</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>The breeder's design point sits inside the scaling envelope used to justify its fusion gain, a check run against an independent turbulence dataset.</description>
+    </item>
     <item>
       <title>Gate closed: the Aegis fixed forward-base configuration fits</title>
       <link>https://www.kronosfusionenergy.com/news/gate-aegis-configuration</link>

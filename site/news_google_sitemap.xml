@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-direct-dc-delivery</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
+      <news:title>Gate closed: direct-DC power reaches the campus boundary clean</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-metrovolt-configuration</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: MetroVolt's Data-Center Configuration Fits Its Shared Burner Core</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/shutdown-ramp-down-modeled</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
+      <news:title>Shutdown and Ramp-Down Modeled Without a Forced Disruption</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/startup-scenario-modeled-end-to-end</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
+      <news:title>Startup Modeled End to End, Cold Plasma to the Frozen Point</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/confinement-scaling-checked-compact-st</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Checks Confinement Scaling for a Compact Spherical Tokamak</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/gate-aegis-configuration</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-12T06:00:00-07:00</news:publication_date>
       <news:title>Burner's Fueling Rate Checked Against Its Own Modeled Burn Consumption, and It Holds</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-control-policy-validation</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: Control Policy Proven in the Twin, Before Hardware</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-diagnostics-coverage</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: Diagnostics Coverage Sees What the Machine Needs Seen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/current-drive-requirement-estimated-sustained-burn</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Estimates the Current-Drive Requirement for Sustained Burn</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/beta-limit-performance-characterized-open-gate</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
-      <news:title>Beta-limit gap named, not yet closed</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/isotope-yield-modeled-against-neutron-budget</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-11T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Models Isotope Yield Against the Breeder's Neutron Budget</news:title>
     </news:news>
   </url>
 </urlset>
