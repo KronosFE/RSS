@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 13:13:41 -0700</lastBuildDate>
-    <pubDate>Tue, 13 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:32:27 -0700</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Gate Closed: Isotope Yield Checks Out Against the Neutron Budget</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-isotope-yield-budgeting</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-isotope-yield-budgeting</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has confirmed its breeder's neutron economy can support isotope-services output on top of self-sufficient tritium breeding, without eroding the breeding margin.</description>
+    </item>
+    <item>
+      <title>Kronos Closes De-Risking Gate on Its Staged Fuel-Cycle Plan</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-fuel-cycle-staging</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-fuel-cycle-staging</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Rather than assuming fleet-scale tritium supply appears instantly, Kronos has staged how tritium bred by a first machine funds startup inventory for the next one.</description>
+    </item>
+    <item>
+      <title>Neutron-activation profile computed for the breeder's first wall</title>
+      <link>https://www.kronosfusionenergy.com/news/neutron-activation-profile-computed</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/neutron-activation-profile-computed</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos has traced where radiation damage accumulates fastest across the breeder's neutron-facing structure, ahead of publishing its waste-classification estimate.</description>
+    </item>
+    <item>
+      <title>Radial-Build Analysis Finds Recoverable Margin in the Breeder's Center-Stack</title>
+      <link>https://www.kronosfusionenergy.com/news/radial-build-analysis-recoverable-margin</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/radial-build-analysis-recoverable-margin</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>A layer-by-layer review of the center-stack finds roughly 2 centimeters of radial space that current minimums do not actually require.</description>
+    </item>
+    <item>
+      <title>Kronos Maps the Steady-State Operating Window Around Its Frozen Design Point</title>
+      <link>https://www.kronosfusionenergy.com/news/steady-state-operating-window-mapped</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/steady-state-operating-window-mapped</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>The frozen breeder point sits inside its own mapped operating window with margin on the structural side, but the map does not paper over the one MHD figure that remains unresolved.</description>
+    </item>
     <item>
       <title>Gate closed: direct-DC power reaches the campus boundary clean</title>
       <link>https://www.kronosfusionenergy.com/news/gate-direct-dc-delivery</link>

@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-isotope-yield-budgeting</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-14T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: Isotope Yield Checks Out Against the Neutron Budget</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-fuel-cycle-staging</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-14T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Closes De-Risking Gate on Its Staged Fuel-Cycle Plan</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/neutron-activation-profile-computed</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-14T06:00:00-07:00</news:publication_date>
+      <news:title>Neutron-activation profile computed for the breeder's first wall</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/radial-build-analysis-recoverable-margin</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-14T06:00:00-07:00</news:publication_date>
+      <news:title>Radial-Build Analysis Finds Recoverable Margin in the Breeder's Center-Stack</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/steady-state-operating-window-mapped</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-14T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Maps the Steady-State Operating Window Around Its Frozen Design Point</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/gate-direct-dc-delivery</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Checks Confinement Scaling for a Compact Spherical Tokamak</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-aegis-configuration</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-12T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: the Aegis fixed forward-base configuration fits</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-reproducibility</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-12T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: Design-Point Method Passes Reproducibility Check</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-twin-fidelity</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-12T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Closes Fidelity Gate: Digital Twin Reproduces the Frozen Design Point</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/plug-density-requirement-stated-in-the-open</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-12T06:00:00-07:00</news:publication_date>
-      <news:title>The Mirror's Hardest Number: Plug Density, Stated in the Open</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/burner-fueling-rate-matched-to-burn</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-12T06:00:00-07:00</news:publication_date>
-      <news:title>Burner's Fueling Rate Checked Against Its Own Modeled Burn Consumption, and It Holds</news:title>
     </news:news>
   </url>
 </urlset>
