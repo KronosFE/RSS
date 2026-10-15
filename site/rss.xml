@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 11:32:27 -0700</lastBuildDate>
-    <pubDate>Wed, 14 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:13:59 -0700</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Gate Closed: Breeder's Assembly Sequence Clears Digital-Twin Check</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-assembly-sequence</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-assembly-sequence</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>A digital-twin walkthrough confirms the machine's components fit and clear each other in the order the build plan calls for.</description>
+    </item>
+    <item>
+      <title>Kronos Closes Manufacturability Gate on a Key Centrepost Component</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-manufacturability-key-component</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-manufacturability-key-component</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos says a design that can't be built isn't a design, and it has now confirmed a key component in the breeder's centrepost can be fabricated to the tolerances its structural and shielding gates assume.</description>
+    </item>
+    <item>
+      <title>Gate closed: the low-neutron safety case stands</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-safety-case-low-neutron</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-safety-case-low-neutron</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos has closed the de-risking gate on its burner's safety case, grounded in an aneutronic-dominant reaction that holds the neutron fraction to 5.44% and simplifies shielding as a direct consequence.</description>
+    </item>
+    <item>
+      <title>Modeled Thermal Path Closes Across a Thousand-Kelvin-Plus Gradient</title>
+      <link>https://www.kronosfusionenergy.com/news/thermal-gradient-managed-across-machine</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/thermal-gradient-managed-across-machine</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>From a 20-kelvin magnet network to plasma-facing surfaces exposed to 85 megawatts of fusion power, Hyperion's end-to-end thermal balance checks out without forcing a redesign.</description>
+    </item>
+    <item>
+      <title>Waste Classification Estimated From the Activation Profile</title>
+      <link>https://www.kronosfusionenergy.com/news/waste-classification-estimated</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/waste-classification-estimated</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos ran an early waste-classification estimate from its computed activation profile, and found the low-neutron burner and the full-spectrum breeder tell two different stories, reported separately rather than blended.</description>
+    </item>
     <item>
       <title>Gate Closed: Isotope Yield Checks Out Against the Neutron Budget</title>
       <link>https://www.kronosfusionenergy.com/news/gate-isotope-yield-budgeting</link>

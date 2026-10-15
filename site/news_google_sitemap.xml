@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-assembly-sequence</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
+      <news:title>Gate Closed: Breeder's Assembly Sequence Clears Digital-Twin Check</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-manufacturability-key-component</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Closes Manufacturability Gate on a Key Centrepost Component</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gate-safety-case-low-neutron</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
+      <news:title>Gate closed: the low-neutron safety case stands</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/thermal-gradient-managed-across-machine</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
+      <news:title>Modeled Thermal Path Closes Across a Thousand-Kelvin-Plus Gradient</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/waste-classification-estimated</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
+      <news:title>Waste Classification Estimated From the Activation Profile</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/gate-isotope-yield-budgeting</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-14T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Maps the Steady-State Operating Window Around Its Frozen Design Point</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-direct-dc-delivery</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: direct-DC power reaches the campus boundary clean</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-metrovolt-configuration</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: MetroVolt's Data-Center Configuration Fits Its Shared Burner Core</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/shutdown-ramp-down-modeled</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
-      <news:title>Shutdown and Ramp-Down Modeled Without a Forced Disruption</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/startup-scenario-modeled-end-to-end</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
-      <news:title>Startup Modeled End to End, Cold Plasma to the Frozen Point</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/confinement-scaling-checked-compact-st</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-13T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Checks Confinement Scaling for a Compact Spherical Tokamak</news:title>
     </news:news>
   </url>
 </urlset>
