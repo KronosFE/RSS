@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 11:13:59 -0700</lastBuildDate>
-    <pubDate>Thu, 15 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:59:06 -0700</lastBuildDate>
+    <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>One Gate Left Open on the Record: Helium-3 Doesn't Close Indigenously</title>
+      <link>https://www.kronosfusionenergy.com/news/gate-open-he3-indigenous</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-open-he3-indigenous</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Gate</category>
+      <description>Kronos names a gap in its own de-risking Register rather than closing it early: helium-3 co-production carries strategic value but is not yet a standalone product.</description>
+    </item>
+    <item>
+      <title>Plasma-Facing Material Checked Against Combined Design Loads</title>
+      <link>https://www.kronosfusionenergy.com/news/plasma-facing-material-checked-against-loads</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/plasma-facing-material-checked-against-loads</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos tested a candidate first-wall material against neutron fluence and thermal load together, not separately, because that combined case is the one that actually happens in operation.</description>
+    </item>
+    <item>
+      <title>Blanket Breeding Uniformity Checked Across Near-4π Coverage</title>
+      <link>https://www.kronosfusionenergy.com/news/blanket-breeding-uniformity-checked</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/blanket-breeding-uniformity-checked</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos checked whether a local cold spot in blanket coverage could hide behind an otherwise-healthy average breeding ratio, and found the modeled rate holds even across the blanket.</description>
+    </item>
+    <item>
+      <title>Kronos Bounds Tritium Retention in the Breeder's First Wall</title>
+      <link>https://www.kronosfusionenergy.com/news/tritium-retention-first-wall-bounded</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/tritium-retention-first-wall-bounded</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Not all bred tritium reaches the fuel-cycle loop; Kronos checked how much stays trapped in first-wall material and found the breeding margin still holds.</description>
+    </item>
+    <item>
+      <title>Fuel-cycle inventory balanced against losses and decay</title>
+      <link>https://www.kronosfusionenergy.com/news/fuel-cycle-inventory-balanced</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/fuel-cycle-inventory-balanced</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos checked its breeder's tritium production against operating losses, radioactive decay, and next-machine startup needs over a modeled campaign, and the margin holds.</description>
+    </item>
     <item>
       <title>Gate Closed: Breeder's Assembly Sequence Clears Digital-Twin Check</title>
       <link>https://www.kronosfusionenergy.com/news/gate-assembly-sequence</link>
