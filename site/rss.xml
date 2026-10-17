@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 10:59:06 -0700</lastBuildDate>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:05:23 -0700</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Independent Environment Confirms Kronos's Published Reproduction</title>
+      <link>https://www.kronosfusionenergy.com/news/reproduction-confirmed-independent-environment</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/reproduction-confirmed-independent-environment</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>A third, independent run of the AI + Quantum method deposit reached the same published figure, outside the environments used at deposit time.</description>
+    </item>
+    <item>
+      <title>Digital twin reproduces the frozen design point against independent codes</title>
+      <link>https://www.kronosfusionenergy.com/news/twin-reproduces-frozen-point-vs-codes</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/twin-reproduces-frozen-point-vs-codes</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos benchmarked its digital twin against the CGYRO turbulence dataset and its own frozen design-point anchors, and found the twin holds rather than drifts.</description>
+    </item>
+    <item>
+      <title>Breeder Control Policy Validated in the Twin Before Hardware</title>
+      <link>https://www.kronosfusionenergy.com/news/control-policy-validated-before-hardware</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/control-policy-validated-before-hardware</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Startup, steady-state, and disruption-adjacent scenarios all held within the modeled operating window built around the frozen design point.</description>
+    </item>
+    <item>
+      <title>Kronos Bounds Disruption Loads Within the Centrepost's Existing Structural Margin</title>
+      <link>https://www.kronosfusionenergy.com/news/disruption-load-on-structure-bounded</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/disruption-load-on-structure-bounded</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>A fast plasma-current dump has to survive on the structure even when the plasma itself doesn't; Kronos says its modeled worst case fits inside the margin already validated for normal operation.</description>
+    </item>
+    <item>
+      <title>MHD Operating Limit Located — With the β_N Caveat Named</title>
+      <link>https://www.kronosfusionenergy.com/news/mhd-operating-limit-located</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/mhd-operating-limit-located</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos has located the modeled MHD stability boundary for the breeder's frozen design point, and is naming an unresolved normalized-beta comparison plainly rather than rounding it into a clean pass.</description>
+    </item>
     <item>
       <title>One Gate Left Open on the Record: Helium-3 Doesn't Close Indigenously</title>
       <link>https://www.kronosfusionenergy.com/news/gate-open-he3-indigenous</link>

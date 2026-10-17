@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/reproduction-confirmed-independent-environment</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
+      <news:title>Independent Environment Confirms Kronos's Published Reproduction</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/twin-reproduces-frozen-point-vs-codes</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
+      <news:title>Digital twin reproduces the frozen design point against independent codes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/control-policy-validated-before-hardware</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
+      <news:title>Breeder Control Policy Validated in the Twin Before Hardware</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/disruption-load-on-structure-bounded</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Bounds Disruption Loads Within the Centrepost's Existing Structural Margin</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/mhd-operating-limit-located</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
+      <news:title>MHD Operating Limit Located — With the β_N Caveat Named</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/gate-open-he3-indigenous</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-16T06:00:00-07:00</news:publication_date>
       <news:title>Fuel-cycle inventory balanced against losses and decay</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-assembly-sequence</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
-      <news:title>Gate Closed: Breeder's Assembly Sequence Clears Digital-Twin Check</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-manufacturability-key-component</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Closes Manufacturability Gate on a Key Centrepost Component</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-safety-case-low-neutron</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
-      <news:title>Gate closed: the low-neutron safety case stands</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/thermal-gradient-managed-across-machine</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
-      <news:title>Modeled Thermal Path Closes Across a Thousand-Kelvin-Plus Gradient</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/waste-classification-estimated</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-15T06:00:00-07:00</news:publication_date>
-      <news:title>Waste Classification Estimated From the Activation Profile</news:title>
     </news:news>
   </url>
 </urlset>
