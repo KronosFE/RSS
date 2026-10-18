@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 10:05:23 -0700</lastBuildDate>
-    <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:18:22 -0700</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Kronos Cross-Checks Breeder and Burner Assumptions, Finds Them Consistent</title>
+      <link>https://www.kronosfusionenergy.com/news/cross-check-breeder-burner-assumptions</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/cross-check-breeder-burner-assumptions</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Hyperion and the Aegis/MetroVolt burner are different machines, but they share a conductor, cryogenic, and structural basis, and Kronos says neither program has drifted from the other's version of it.</description>
+    </item>
+    <item>
+      <title>A Result That Didn't Clear, Reported Honestly</title>
+      <link>https://www.kronosfusionenergy.com/news/result-that-didnt-clear-reported-honestly</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/result-that-didnt-clear-reported-honestly</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>A normalized-beta comparison against the design's reference stability limit did not resolve in Kronos's favor this cycle — and the company is publishing that outcome rather than rounding it into a pass.</description>
+    </item>
+    <item>
+      <title>Kronos Names an Open Gap Before It Bites: Helium-3 Isn't a Standalone Product Yet</title>
+      <link>https://www.kronosfusionenergy.com/news/open-gate-he3-does-not-close-indigenously</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/open-gate-he3-does-not-close-indigenously</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>The company draws a clear line between tritium, its base product, and helium-3, a strategically valuable byproduct that does not yet close its own supply chain.</description>
+    </item>
+    <item>
+      <title>A Prior Assumption Revised on New Modeling Evidence</title>
+      <link>https://www.kronosfusionenergy.com/news/prior-assumption-revised-new-evidence</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/prior-assumption-revised-new-evidence</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos revised one input assumption behind its canonical anchors this cycle, and is saying so in public rather than updating the number without comment.</description>
+    </item>
+    <item>
+      <title>Sensitivity Analysis Narrows What Actually Moves the Design Point</title>
+      <link>https://www.kronosfusionenergy.com/news/sensitivity-analysis-narrows-design-point</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/sensitivity-analysis-narrows-design-point</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos ranked the inputs behind its frozen breeder design point and found a small set of parameters accounts for most of the sensitivity.</description>
+    </item>
     <item>
       <title>Independent Environment Confirms Kronos's Published Reproduction</title>
       <link>https://www.kronosfusionenergy.com/news/reproduction-confirmed-independent-environment</link>

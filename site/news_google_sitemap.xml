@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/cross-check-breeder-burner-assumptions</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Cross-Checks Breeder and Burner Assumptions, Finds Them Consistent</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/result-that-didnt-clear-reported-honestly</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
+      <news:title>A Result That Didn't Clear, Reported Honestly</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/open-gate-he3-does-not-close-indigenously</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Names an Open Gap Before It Bites: Helium-3 Isn't a Standalone Product Yet</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/prior-assumption-revised-new-evidence</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
+      <news:title>A Prior Assumption Revised on New Modeling Evidence</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/sensitivity-analysis-narrows-design-point</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
+      <news:title>Sensitivity Analysis Narrows What Actually Moves the Design Point</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/reproduction-confirmed-independent-environment</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
       <news:title>MHD Operating Limit Located — With the β_N Caveat Named</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gate-open-he3-indigenous</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-16T06:00:00-07:00</news:publication_date>
-      <news:title>One Gate Left Open on the Record: Helium-3 Doesn't Close Indigenously</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/plasma-facing-material-checked-against-loads</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-16T06:00:00-07:00</news:publication_date>
-      <news:title>Plasma-Facing Material Checked Against Combined Design Loads</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/blanket-breeding-uniformity-checked</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-16T06:00:00-07:00</news:publication_date>
-      <news:title>Blanket Breeding Uniformity Checked Across Near-4π Coverage</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/tritium-retention-first-wall-bounded</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-16T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Bounds Tritium Retention in the Breeder's First Wall</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/fuel-cycle-inventory-balanced</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-16T06:00:00-07:00</news:publication_date>
-      <news:title>Fuel-cycle inventory balanced against losses and decay</news:title>
     </news:news>
   </url>
 </urlset>
