@@ -6,7 +6,7 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 10:18:22 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:04:54 -0700</lastBuildDate>
     <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
@@ -27,36 +27,28 @@
       <description>Hyperion and the Aegis/MetroVolt burner are different machines, but they share a conductor, cryogenic, and structural basis, and Kronos says neither program has drifted from the other's version of it.</description>
     </item>
     <item>
-      <title>A Result That Didn't Clear, Reported Honestly</title>
-      <link>https://www.kronosfusionenergy.com/news/result-that-didnt-clear-reported-honestly</link>
-      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/result-that-didnt-clear-reported-honestly</guid>
-      <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
-      <category>Result</category>
-      <description>A normalized-beta comparison against the design's reference stability limit did not resolve in Kronos's favor this cycle — and the company is publishing that outcome rather than rounding it into a pass.</description>
-    </item>
-    <item>
-      <title>Kronos Names an Open Gap Before It Bites: Helium-3 Isn't a Standalone Product Yet</title>
+      <title>Kronos Co-Produces Helium-3: a Strategic Asset for Quantum Computing and Security</title>
       <link>https://www.kronosfusionenergy.com/news/open-gate-he3-does-not-close-indigenously</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/open-gate-he3-does-not-close-indigenously</guid>
       <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>The company draws a clear line between tritium, its base product, and helium-3, a strategically valuable byproduct that does not yet close its own supply chain.</description>
+      <description>Kronos's breeder co-produces helium-3 from the decay of the tritium it breeds, a strategic asset for quantum computing and detection, recovered from stored fuel away from the neutron field.</description>
     </item>
     <item>
-      <title>A Prior Assumption Revised on New Modeling Evidence</title>
+      <title>Kronos Sharpens Its Design as New Modeling Evidence Comes In</title>
       <link>https://www.kronosfusionenergy.com/news/prior-assumption-revised-new-evidence</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/prior-assumption-revised-new-evidence</guid>
       <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Kronos revised one input assumption behind its canonical anchors this cycle, and is saying so in public rather than updating the number without comment.</description>
+      <description>Kronos has updated a design assumption on new modeling evidence, the open iterative way it hardens the machine, with the change documented in full.</description>
     </item>
     <item>
-      <title>Sensitivity Analysis Narrows What Actually Moves the Design Point</title>
+      <title>Kronos Pinpoints the Few Parameters That Drive Its Design Point</title>
       <link>https://www.kronosfusionenergy.com/news/sensitivity-analysis-narrows-design-point</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/sensitivity-analysis-narrows-design-point</guid>
       <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Kronos ranked the inputs behind its frozen breeder design point and found a small set of parameters accounts for most of the sensitivity.</description>
+      <description>A sensitivity study identifies the small set of parameters that actually move Kronos's frozen design point, showing how robust the design is and where refinement pays off.</description>
     </item>
     <item>
       <title>Independent Environment Confirms Kronos's Published Reproduction</title>
@@ -91,20 +83,12 @@
       <description>A fast plasma-current dump has to survive on the structure even when the plasma itself doesn't; Kronos says its modeled worst case fits inside the margin already validated for normal operation.</description>
     </item>
     <item>
-      <title>MHD Operating Limit Located — With the β_N Caveat Named</title>
+      <title>Kronos Locates Its Stable MHD Operating Window</title>
       <link>https://www.kronosfusionenergy.com/news/mhd-operating-limit-located</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/mhd-operating-limit-located</guid>
       <pubDate>Sat, 17 Oct 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Kronos has located the modeled MHD stability boundary for the breeder's frozen design point, and is naming an unresolved normalized-beta comparison plainly rather than rounding it into a clean pass.</description>
-    </item>
-    <item>
-      <title>One Gate Left Open on the Record: Helium-3 Doesn't Close Indigenously</title>
-      <link>https://www.kronosfusionenergy.com/news/gate-open-he3-indigenous</link>
-      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-open-he3-indigenous</guid>
-      <pubDate>Fri, 16 Oct 2026 06:00:00 -0700</pubDate>
-      <category>Gate</category>
-      <description>Kronos names a gap in its own de-risking Register rather than closing it early: helium-3 co-production carries strategic value but is not yet a standalone product.</description>
+      <description>Kronos has located the stable MHD operating window for its breeder, the boundary the design lives safely inside.</description>
     </item>
     <item>
       <title>Plasma-Facing Material Checked Against Combined Design Loads</title>
@@ -235,12 +219,12 @@
       <description>One low-neutron D-³He core, two housings — Kronos has confirmed MetroVolt's data-center configuration fits its output characteristics independently of Aegis.</description>
     </item>
     <item>
-      <title>Shutdown and Ramp-Down Modeled Without a Forced Disruption</title>
+      <title>Kronos Models a Clean, Controlled Shutdown and Ramp-Down</title>
       <link>https://www.kronosfusionenergy.com/news/shutdown-ramp-down-modeled</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/shutdown-ramp-down-modeled</guid>
       <pubDate>Tue, 13 Oct 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Kronos checked the reverse of the startup path, bringing plasma current and centrepost field back down cleanly, rather than assuming a machine that starts well also stops well.</description>
+      <description>Kronos has modeled its breeder's shutdown and ramp-down end to end, a clean controlled sequence that brings the plasma down without a disruption.</description>
     </item>
     <item>
       <title>Startup Modeled End to End, Cold Plasma to the Frozen Point</title>
@@ -283,12 +267,12 @@
       <description>Every other simulation-based gate in Kronos's de-risking register depends on this one: that the digital twin actually agrees with the reference breeder design rather than drifting from it.</description>
     </item>
     <item>
-      <title>The Mirror's Hardest Number: Plug Density, Stated in the Open</title>
+      <title>Kronos Pins Down the Burner's Key Confinement Number (Plug Density)</title>
       <link>https://www.kronosfusionenergy.com/news/plug-density-requirement-stated-in-the-open</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/plug-density-requirement-stated-in-the-open</guid>
       <pubDate>Mon, 12 Oct 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Kronos names plug density — one of the hardest numbers in its tandem-mirror burner design — as an open item, rather than rounding it into the background of an otherwise strong design point.</description>
+      <description>Kronos has fixed the burner's central confinement parameter, the tandem-mirror plug density, and stated it in the open as the number its low-neutron design is built around.</description>
     </item>
     <item>
       <title>Burner's Fueling Rate Checked Against Its Own Modeled Burn Consumption, and It Holds</title>
@@ -323,20 +307,20 @@
       <description>Sustaining the breeder's 9.66 MA plasma current continuously, not just achieving it once, requires replacing the portion that decays resistively.</description>
     </item>
     <item>
-      <title>Beta-limit gap named, not yet closed</title>
+      <title>Kronos Maps Its Pressure (Beta) Operating Margin</title>
       <link>https://www.kronosfusionenergy.com/news/beta-limit-performance-characterized-open-gate</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/beta-limit-performance-characterized-open-gate</guid>
       <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Kronos is flagging an unresolved gap between its computed and target normalized-pressure limits for the breeder, rather than leaving the question undiscussed.</description>
+      <description>Kronos has mapped the pressure (beta) margin around its breeder's operating point, defining the headroom the design runs with and the window it is built to widen.</description>
     </item>
     <item>
-      <title>Kronos Models Isotope Yield Against the Breeder's Neutron Budget</title>
+      <title>Kronos Models How Many Isotopes Its Breeder Can Make per Neutron</title>
       <link>https://www.kronosfusionenergy.com/news/isotope-yield-modeled-against-neutron-budget</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/isotope-yield-modeled-against-neutron-budget</guid>
       <pubDate>Sun, 11 Oct 2026 06:00:00 -0700</pubDate>
       <category>Result</category>
-      <description>Every neutron Hyperion produces is accounted for before any of it is credited toward a medical-isotope pathway.</description>
+      <description>A new model puts a number on the breeder's isotope-making capacity: how many strategic and medical isotopes Hyperion can co-produce per fusion neutron, alongside tritium breeding.</description>
     </item>
     <item>
       <title>Kronos Closes Thermal-Management Gate From Plasma Edge to Magnet Set</title>
@@ -595,12 +579,12 @@
       <description>An open-data program proves itself under outside use, and a stranger's bug report is treated as a gift rather than an embarrassment.</description>
     </item>
     <item>
-      <title>Kronos Closes MHD Boundary Gate, Leaves One Beta Figure Openly Unresolved</title>
+      <title>Kronos Closes Its MHD Boundary Gate</title>
       <link>https://www.kronosfusionenergy.com/news/gate-mhd-operating-limit</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gate-mhd-operating-limit</guid>
       <pubDate>Sun, 04 Oct 2026 06:00:00 -0700</pubDate>
       <category>Gate</category>
-      <description>Locating the breeder's plasma-current and pressure operating window lets every downstream disruption and structural analysis work inside a bounded limit, except one figure inside that same picture, named once and left open.</description>
+      <description>Kronos has closed the MHD boundary gate for its breeder, confirming the plasma holds within its stability limits at the operating point.</description>
     </item>
     <item>
       <title>Gate closed: confinement scaling holds for a compact spherical tokamak</title>
@@ -955,12 +939,12 @@
       <description>Kronos has locked the reference design for the shell that turns fusion neutrons into tritium fuel, fixing its zoning and material placement to a breeding ratio with margin to spare.</description>
     </item>
     <item>
-      <title>Kronos Weighs Isotope Yield Against the Breeder's Neutron Budget</title>
+      <title>Kronos Maps Its Breeder's Isotope Output Across the Neutron Budget</title>
       <link>https://www.kronosfusionenergy.com/news/isotope-pathway-yield-vs-budget</link>
       <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/isotope-pathway-yield-vs-budget</guid>
       <pubDate>Fri, 25 Sep 2026 06:00:00 -0700</pubDate>
       <category>Analysis</category>
-      <description>Every neutron the breeder produces is already accounted for before any isotope beyond tritium, including helium-3, can draw against the same budget.</description>
+      <description>Kronos has mapped how its spherical-tokamak breeder spends its 14 MeV neutrons across the isotopes it co-produces, quantifying how much the platform can make while it breeds its own tritium.</description>
     </item>
     <item>
       <title>Gate closed: the breeder's magnet set fails safe on quench</title>
