@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 16:04:54 -0700</lastBuildDate>
-    <pubDate>Sun, 18 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:50:56 -0700</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Transport: Modeling the Edge and Scrape-Off Layer</title>
+      <link>https://www.kronosfusionenergy.com/news/transport-modeling-the-edge-and-scrape-off-layer</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/transport-modeling-the-edge-and-scrape-off-layer</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>A second, independent code takes over where the core turbulence model leaves off, checking whether Hyperion's negative-triangularity edge behaves as steadily as designed at the boundary itself.</description>
+    </item>
+    <item>
+      <title>Net Tritium Breeding Margin Confirmed by Divertor Configuration: 1.12 SN / 1.07 DN</title>
+      <link>https://www.kronosfusionenergy.com/news/net-tbr-margin-by-divertor-configuration</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/net-tbr-margin-by-divertor-configuration</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos states its tritium-breeding margin separately for each divertor geometry rather than averaging them, because a plant committing to one geometry commits to a different fuel-cycle margin.</description>
+    </item>
+    <item>
+      <title>Kronos Sets the Neutron-Tolerance Spec for Its NV-Diamond Sensing</title>
+      <link>https://www.kronosfusionenergy.com/news/nv-sensing-an-honest-gap-named-not-a-multiplier-claimed</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/nv-sensing-an-honest-gap-named-not-a-multiplier-claimed</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos has set the neutron-tolerance specification its NV-diamond sensing package must meet, defining the target its sensor development is working to.</description>
+    </item>
+    <item>
+      <title>Net self-sufficiency case published as a standalone paper</title>
+      <link>https://www.kronosfusionenergy.com/news/net-self-sufficiency-case-published-as-a-standalone-paper</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/net-self-sufficiency-case-published-as-a-standalone-paper</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has given its breeder's net tritium-breeding result its own citable paper and DOI, the claim that turns Hyperion from a fusion device into a fuel factory that feeds itself.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Full Design Paper on the Tritium Breeding Blanket</title>
+      <link>https://www.kronosfusionenergy.com/news/breeding-blanket-design</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/breeding-blanket-design</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The paper behind Hyperion's fuel-factory shell lays out the geometry, neutron multiplication, and coverage that turn a fusion neutron into bred tritium.</description>
+    </item>
     <item>
       <title>Kronos Cross-Checks Breeder and Burner Assumptions, Finds Them Consistent</title>
       <link>https://www.kronosfusionenergy.com/news/cross-check-breeder-burner-assumptions</link>

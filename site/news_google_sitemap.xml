@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/transport-modeling-the-edge-and-scrape-off-layer</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-19T06:00:00-07:00</news:publication_date>
+      <news:title>Transport: Modeling the Edge and Scrape-Off Layer</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/net-tbr-margin-by-divertor-configuration</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-19T06:00:00-07:00</news:publication_date>
+      <news:title>Net Tritium Breeding Margin Confirmed by Divertor Configuration: 1.12 SN / 1.07 DN</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/nv-sensing-an-honest-gap-named-not-a-multiplier-claimed</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-19T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Sets the Neutron-Tolerance Spec for Its NV-Diamond Sensing</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/net-self-sufficiency-case-published-as-a-standalone-paper</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-19T06:00:00-07:00</news:publication_date>
+      <news:title>Net self-sufficiency case published as a standalone paper</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/breeding-blanket-design</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-19T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Full Design Paper on the Tritium Breeding Blanket</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/cross-check-breeder-burner-assumptions</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -30,46 +70,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Pinpoints the Few Parameters That Drive Its Design Point</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/reproduction-confirmed-independent-environment</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
-      <news:title>Independent Environment Confirms Kronos's Published Reproduction</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/twin-reproduces-frozen-point-vs-codes</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
-      <news:title>Digital twin reproduces the frozen design point against independent codes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/control-policy-validated-before-hardware</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
-      <news:title>Breeder Control Policy Validated in the Twin Before Hardware</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/disruption-load-on-structure-bounded</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Bounds Disruption Loads Within the Centrepost's Existing Structural Margin</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/mhd-operating-limit-located</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-17T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Locates Its Stable MHD Operating Window</news:title>
     </news:news>
   </url>
 </urlset>
