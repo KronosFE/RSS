@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/design-locked-the-control-sensor-network</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-20T06:00:00-07:00</news:publication_date>
+      <news:title>Design locked: the control-sensor network</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/transport-cross-checking-micro-instabilities-with-a-second</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-20T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Cross-Checks Turbulence Results With a Second Gyrokinetic Code</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/magnet-twin-fused-quench-detection-reaches-auc-0-992</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-20T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Reports Fused Quench Detector Reaching AUC 0.992 in Simulation</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/center-stack-shielding-and-engineering</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-20T06:00:00-07:00</news:publication_date>
+      <news:title>Center-Stack Shielding and Engineering Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/negative-triangularity-shaping</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-20T06:00:00-07:00</news:publication_date>
+      <news:title>Negative-Triangularity Shaping Paper Published for Hyperion's Outward-Pointing D-Shape</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/transport-modeling-the-edge-and-scrape-off-layer</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,38 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-19T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Publishes Full Design Paper on the Tritium Breeding Blanket</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/cross-check-breeder-burner-assumptions</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Cross-Checks Breeder and Burner Assumptions, Finds Them Consistent</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/open-gate-he3-does-not-close-indigenously</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Co-Produces Helium-3: a Strategic Asset for Quantum Computing and Security</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/prior-assumption-revised-new-evidence</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Sharpens Its Design as New Modeling Evidence Comes In</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/sensitivity-analysis-narrows-design-point</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-18T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Pinpoints the Few Parameters That Drive Its Design Point</news:title>
     </news:news>
   </url>
 </urlset>

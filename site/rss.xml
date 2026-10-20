@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 12:50:56 -0700</lastBuildDate>
-    <pubDate>Mon, 19 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:26:26 -0700</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Design locked: the control-sensor network</title>
+      <link>https://www.kronosfusionenergy.com/news/design-locked-the-control-sensor-network</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/design-locked-the-control-sensor-network</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Design Lock</category>
+      <description>Kronos has fixed the sensor architecture feeding its plasma-control system, built on published results in quench detection, magnetometry, and safety clamping, with one gap still open.</description>
+    </item>
+    <item>
+      <title>Kronos Cross-Checks Turbulence Results With a Second Gyrokinetic Code</title>
+      <link>https://www.kronosfusionenergy.com/news/transport-cross-checking-micro-instabilities-with-a-second</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/transport-cross-checking-micro-instabilities-with-a-second</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>Every major confinement claim rests on one code, CGYRO, so Kronos is running a second, independently built solver against it.</description>
+    </item>
+    <item>
+      <title>Kronos Reports Fused Quench Detector Reaching AUC 0.992 in Simulation</title>
+      <link>https://www.kronosfusionenergy.com/news/magnet-twin-fused-quench-detection-reaches-auc-0-992</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/magnet-twin-fused-quench-detection-reaches-auc-0-992</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Combining digital-twin state estimates with simulated magnet sensor telemetry lets a classifier flag a pre-quench state earlier than either data source could alone, at least on the modeled test set.</description>
+    </item>
+    <item>
+      <title>Center-Stack Shielding and Engineering Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/center-stack-shielding-and-engineering</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/center-stack-shielding-and-engineering</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the shielding and engineering paper for the center stack, the column that carries the toroidal field coil through the plasma core and has to survive years of 14.1 MeV neutron bombardment while doing it.</description>
+    </item>
+    <item>
+      <title>Negative-Triangularity Shaping Paper Published for Hyperion's Outward-Pointing D-Shape</title>
+      <link>https://www.kronosfusionenergy.com/news/negative-triangularity-shaping</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/negative-triangularity-shaping</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The physics case for pointing the plasma boundary the 'wrong' way, and why it steadies both the edge and the divertor, is now in a completed paper.</description>
+    </item>
     <item>
       <title>Transport: Modeling the Edge and Scrape-Off Layer</title>
       <link>https://www.kronosfusionenergy.com/news/transport-modeling-the-edge-and-scrape-off-layer</link>
