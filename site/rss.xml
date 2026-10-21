@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 11:26:26 -0700</lastBuildDate>
-    <pubDate>Tue, 20 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:34:09 -0700</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Thermal: the cold-side energy books</title>
+      <link>https://www.kronosfusionenergy.com/news/thermal-the-cold-side-energy-books</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/thermal-the-cold-side-energy-books</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>A cryogenic heat-balance analysis sizes the closed-cycle cooling system for the breeder's magnet set, accounting for every heat load into a system held near 20 K.</description>
+    </item>
+    <item>
+      <title>Analysis Traces the Burner's Energy Path From Plasma Exhaust to Delivered Power</title>
+      <link>https://www.kronosfusionenergy.com/news/thermal-following-the-energy-path-to-usable-power</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/thermal-following-the-energy-path-to-usable-power</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Analysis</category>
+      <description>A five-channel direct-conversion stack turns charged particles into electricity without a steam cycle — Kronos has now accounted for every stage between plasma and the outlet.</description>
+    </item>
+    <item>
+      <title>Control-Barrier-Function Clamp Cuts Safety Violations to 0/100</title>
+      <link>https://www.kronosfusionenergy.com/news/control-barrier-function-clamp-cuts-safety-violations-to-0</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/control-barrier-function-clamp-cuts-safety-violations-to-0</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Adding a mathematical safety clamp to Hyperion's control policy took its violation rate across 100 modeled scenarios from roughly half down to zero.</description>
+    </item>
+    <item>
+      <title>NV-Diamond Magnetometry Reaches 0.189 pT/√Hz at 125 kHz</title>
+      <link>https://www.kronosfusionenergy.com/news/nv-diamond-magnetometry-reaches-0-189-pt-hz-at-125-khz</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/nv-diamond-magnetometry-reaches-0-189-pt-hz-at-125-khz</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Result</category>
+      <description>Kronos's NV-diamond sensor package hits a sensitivity figure strong enough to feed its quench-detection work, while its radiation tolerance for in-vessel use still falls short of qualification.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Paper on Five-Channel Direct Energy Conversion</title>
+      <link>https://www.kronosfusionenergy.com/news/five-channel-direct-energy-conversion</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/five-channel-direct-energy-conversion</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The burner converts charged exhaust straight into current across five stacked conversion channels, reaching an efficiency of 0.49 with no steam cycle.</description>
+    </item>
     <item>
       <title>Design locked: the control-sensor network</title>
       <link>https://www.kronosfusionenergy.com/news/design-locked-the-control-sensor-network</link>
