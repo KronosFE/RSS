@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/control-robustness-rejecting-disturbances-during-operation</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Analysis of Control-System Disturbance Rejection</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/sensitivity-how-robust-is-the-frozen-design-point</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Sensitivity Analysis on How Robust Its Frozen Design Point Really Is</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/plug-density-operating-point-stated-in-the-open</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
+      <news:title>Plug-Density Operating Point Stated in the Open — Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/tandem-mirror-end-plug-physics</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
+      <news:title>Tandem-Mirror End-Plug Physics Paper Published for the Burner Line</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/first-wall-materials-under-14-mev-neutrons</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
+      <news:title>First-Wall Materials Under 14 MeV Neutrons — Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/reliability-how-often-the-machine-needs-service</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-22T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Publishes Cryogenic Architecture Paper Covering Both Field Targets</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/thermal-the-cold-side-energy-books</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-21T06:00:00-07:00</news:publication_date>
-      <news:title>Thermal: the cold-side energy books</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/thermal-following-the-energy-path-to-usable-power</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-21T06:00:00-07:00</news:publication_date>
-      <news:title>Analysis Traces the Burner's Energy Path From Plasma Exhaust to Delivered Power</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/control-barrier-function-clamp-cuts-safety-violations-to-0</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-21T06:00:00-07:00</news:publication_date>
-      <news:title>Control-Barrier-Function Clamp Cuts Safety Violations to 0/100</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/nv-diamond-magnetometry-reaches-0-189-pt-hz-at-125-khz</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-21T06:00:00-07:00</news:publication_date>
-      <news:title>NV-Diamond Magnetometry Reaches 0.189 pT/√Hz at 125 kHz</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/five-channel-direct-energy-conversion</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-21T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Paper on Five-Channel Direct Energy Conversion</news:title>
     </news:news>
   </url>
 </urlset>
