@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/microsecond-vertical-displacement-control</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
+      <news:title>Paper Published on Catching Vertical-Displacement Events in Microseconds, Not Seconds</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/ai-ml-plasma-control-paper-kronos-ctrl</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
+      <news:title>AI/ML Plasma Control Paper (KRONOS-CTRL) Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/neutron-economy-materials-platform</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
+      <news:title>Neutron-Economy Materials Platform Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/helium-3-co-production-pathway</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Helium-3 Co-Production Pathway Paper</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/low-neutron-d-he-reaction-economy</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
+      <news:title>Low-neutron D-3He reaction economy paper published</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/control-robustness-rejecting-disturbances-during-operation</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
       <news:title>First-Wall Materials Under 14 MeV Neutrons — Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/reliability-how-often-the-machine-needs-service</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-22T06:00:00-07:00</news:publication_date>
-      <news:title>Reliability: How Often the Machine Needs Service</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/reliability-how-long-each-component-is-expected-to-last</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-22T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Component-by-Component Lifetime Analysis</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/divertor-and-exhaust-handling</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-22T06:00:00-07:00</news:publication_date>
-      <news:title>Divertor and exhaust-handling paper published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/vacuum-vessel-structural-and-thermal</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-22T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Vacuum-Vessel Structural and Thermal Paper</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/20-k-cryogenic-architecture</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-22T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Cryogenic Architecture Paper Covering Both Field Targets</news:title>
     </news:news>
   </url>
 </urlset>

@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 11:15:58 -0700</lastBuildDate>
-    <pubDate>Fri, 23 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:23:47 -0700</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Paper Published on Catching Vertical-Displacement Events in Microseconds, Not Seconds</title>
+      <link>https://www.kronosfusionenergy.com/news/microsecond-vertical-displacement-control</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/microsecond-vertical-displacement-control</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>A vertical displacement event can outrun a human operator; Kronos has published a control approach designed to catch it on the plasma's own timescale.</description>
+    </item>
+    <item>
+      <title>AI/ML Plasma Control Paper (KRONOS-CTRL) Published</title>
+      <link>https://www.kronosfusionenergy.com/news/ai-ml-plasma-control-paper-kronos-ctrl</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/ai-ml-plasma-control-paper-kronos-ctrl</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the paper positioning its control system as a first-class subsystem across both breeder and burner, not an add-on layered over the plasma physics.</description>
+    </item>
+    <item>
+      <title>Neutron-Economy Materials Platform Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/neutron-economy-materials-platform</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/neutron-economy-materials-platform</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the public case for Hyperion as a materials platform, arguing its resource stream of tritium, helium-3, and high-flux neutrons stands on its own, independent of any electricity export.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Helium-3 Co-Production Pathway Paper</title>
+      <link>https://www.kronosfusionenergy.com/news/helium-3-co-production-pathway</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/helium-3-co-production-pathway</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The breeder's highest-value by-product gets its own pathway paper, framed against tritium as the platform's actual bankable product.</description>
+    </item>
+    <item>
+      <title>Low-neutron D-3He reaction economy paper published</title>
+      <link>https://www.kronosfusionenergy.com/news/low-neutron-d-he-reaction-economy</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/low-neutron-d-he-reaction-economy</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published why the burner's near-aneutronic fuel cycle reshapes shielding, activation, and structural fluence across the machine's life.</description>
+    </item>
     <item>
       <title>Kronos Publishes Analysis of Control-System Disturbance Rejection</title>
       <link>https://www.kronosfusionenergy.com/news/control-robustness-rejecting-disturbances-during-operation</link>
