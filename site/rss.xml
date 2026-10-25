@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 10:23:47 -0700</lastBuildDate>
-    <pubDate>Sat, 24 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:37:14 -0700</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Kronos Publishes MHD Stability and Operating-Limits Paper</title>
+      <link>https://www.kronosfusionenergy.com/news/mhd-stability-and-operating-limits</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/mhd-stability-and-operating-limits</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The paper defining where the breeder's operating window ends also names an unresolved gap in normalized beta rather than picking the more favorable figure.</description>
+    </item>
+    <item>
+      <title>Edge and scrape-off-layer transport paper published</title>
+      <link>https://www.kronosfusionenergy.com/news/edge-and-scrape-off-layer-transport</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/edge-and-scrape-off-layer-transport</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the physics governing the plasma boundary between the breeder's confined core and its divertor, connecting directly to its negative-triangularity and divertor design results.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Gyrokinetic Turbulence Paper Behind Its CGYRO Results</title>
+      <link>https://www.kronosfusionenergy.com/news/gyrokinetic-turbulence-paper-cgyro</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/gyrokinetic-turbulence-paper-cgyro</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The full methodology behind the negative-triangularity confinement claim is now public, not just the headline number.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Digital-Twin Architecture and Validation Paper</title>
+      <link>https://www.kronosfusionenergy.com/news/digital-twin-architecture-and-validation</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/digital-twin-architecture-and-validation</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The component-by-component model Kronos uses to validate designs and train control policy before any hardware exists now has its full architecture and validation methodology on the record.</description>
+    </item>
+    <item>
+      <title>Load-Following and Grid Integration Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/load-following-and-grid-integration</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/load-following-and-grid-integration</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>A new paper models how the burner line's direct-DC output tracks a real, variable grid demand profile — a case MetroVolt's data-center application depends on directly.</description>
+    </item>
     <item>
       <title>Paper Published on Catching Vertical-Displacement Events in Microseconds, Not Seconds</title>
       <link>https://www.kronosfusionenergy.com/news/microsecond-vertical-displacement-control</link>

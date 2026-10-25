@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/mhd-stability-and-operating-limits</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes MHD Stability and Operating-Limits Paper</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/edge-and-scrape-off-layer-transport</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
+      <news:title>Edge and scrape-off-layer transport paper published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/gyrokinetic-turbulence-paper-cgyro</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Gyrokinetic Turbulence Paper Behind Its CGYRO Results</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/digital-twin-architecture-and-validation</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Digital-Twin Architecture and Validation Paper</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/load-following-and-grid-integration</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
+      <news:title>Load-Following and Grid Integration Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/microsecond-vertical-displacement-control</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
       <news:title>Low-neutron D-3He reaction economy paper published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/control-robustness-rejecting-disturbances-during-operation</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Analysis of Control-System Disturbance Rejection</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/sensitivity-how-robust-is-the-frozen-design-point</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Sensitivity Analysis on How Robust Its Frozen Design Point Really Is</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/plug-density-operating-point-stated-in-the-open</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
-      <news:title>Plug-Density Operating Point Stated in the Open — Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/tandem-mirror-end-plug-physics</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
-      <news:title>Tandem-Mirror End-Plug Physics Paper Published for the Burner Line</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/first-wall-materials-under-14-mev-neutrons</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-23T06:00:00-07:00</news:publication_date>
-      <news:title>First-Wall Materials Under 14 MeV Neutrons — Paper Published</news:title>
     </news:news>
   </url>
 </urlset>
