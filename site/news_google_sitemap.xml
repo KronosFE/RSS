@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/reproducibility-and-open-evaluator-method</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Reproducibility and Open-Evaluator Methods Paper</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/medical-isotope-pathway</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
+      <news:title>Medical-Isotope Pathway Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/isotope-production-and-neutron-services</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
+      <news:title>Isotope Production and Neutron-Services Paper Published for the Breeder Platform</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/fuel-cycle-staging-strategy</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
+      <news:title>Fuel-Cycle Staging Strategy Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/magnet-quench-and-protection</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
+      <news:title>Magnet Quench and Protection Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/mhd-stability-and-operating-limits</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
       <news:title>Load-Following and Grid Integration Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/microsecond-vertical-displacement-control</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
-      <news:title>Paper Published on Catching Vertical-Displacement Events in Microseconds, Not Seconds</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/ai-ml-plasma-control-paper-kronos-ctrl</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
-      <news:title>AI/ML Plasma Control Paper (KRONOS-CTRL) Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/neutron-economy-materials-platform</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
-      <news:title>Neutron-Economy Materials Platform Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/helium-3-co-production-pathway</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Helium-3 Co-Production Pathway Paper</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/low-neutron-d-he-reaction-economy</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-24T06:00:00-07:00</news:publication_date>
-      <news:title>Low-neutron D-3He reaction economy paper published</news:title>
     </news:news>
   </url>
 </urlset>

@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 10:37:14 -0700</lastBuildDate>
-    <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:52:59 -0700</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Kronos Publishes Reproducibility and Open-Evaluator Methods Paper</title>
+      <link>https://www.kronosfusionenergy.com/news/reproducibility-and-open-evaluator-method</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/reproducibility-and-open-evaluator-method</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the methods paper meant to make every result in its series executable, not just citable: a design point isn't just stated as a number, it's re-derivable.</description>
+    </item>
+    <item>
+      <title>Medical-Isotope Pathway Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/medical-isotope-pathway</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/medical-isotope-pathway</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published a paper on a pathway toward medical isotope production, a co-located application of the same high-flux neutron source the breeder uses to breed its primary fuel.</description>
+    </item>
+    <item>
+      <title>Isotope Production and Neutron-Services Paper Published for the Breeder Platform</title>
+      <link>https://www.kronosfusionenergy.com/news/isotope-production-and-neutron-services</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/isotope-production-and-neutron-services</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>A high-flux 14.1 MeV neutron source generates more than tritium — Kronos has published the case for using neutron irradiation services as an addition to, not a substitute for, its core breeding mission.</description>
+    </item>
+    <item>
+      <title>Fuel-Cycle Staging Strategy Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/fuel-cycle-staging-strategy</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/fuel-cycle-staging-strategy</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Tritium's own 12.3-year half-life is why Kronos stages its fuel cycle rather than building a single inventory all at once; the strategy paper explaining why is now published.</description>
+    </item>
+    <item>
+      <title>Magnet Quench and Protection Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/magnet-quench-and-protection</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/magnet-quench-and-protection</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the protection architecture that detects a superconducting magnet quench early and routes stored energy out safely before it can damage the coil.</description>
+    </item>
     <item>
       <title>Kronos Publishes MHD Stability and Operating-Limits Paper</title>
       <link>https://www.kronosfusionenergy.com/news/mhd-stability-and-operating-limits</link>
