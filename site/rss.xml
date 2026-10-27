@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 12:52:59 -0700</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:24:42 -0700</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Neutron Fluence and Shielding Budget for the Breeder Core — Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/neutron-fluence-and-shielding-budget-for-the-breeder-core</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/neutron-fluence-and-shielding-budget-for-the-breeder-core</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the fluence-budgeting paper that sizes every shielding layer between the plasma and the outside world, working outward from the first wall the centrepost already shares a load case with.</description>
+    </item>
+    <item>
+      <title>Thermal Management Across the Cryo–Plasma Gradient: Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/thermal-management-across-the-cryo-plasma-gradient</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/thermal-management-across-the-cryo-plasma-gradient</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the end-to-end thermal path connecting a 20 K magnet coil to a fusion-temperature plasma core across centimeters of shielding.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes MetroVolt Data-Center Burner Configuration Paper</title>
+      <link>https://www.kronosfusionenergy.com/news/metrovolt-data-center-burner-configuration</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/metrovolt-data-center-burner-configuration</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The configuration paper for the data-center housing built on the shared burner core describes direct-DC output built to match how modern data centers already run power internally.</description>
+    </item>
+    <item>
+      <title>Aegis defense-burner configuration paper published</title>
+      <link>https://www.kronosfusionenergy.com/news/aegis-defense-burner-configuration</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/aegis-defense-burner-configuration</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published how its shared burner core and five-channel direct-energy-conversion stack are packaged into Aegis, a fixed forward-base generator, not a naval or mobile platform.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Methodology Paper Behind Its De-Risking Register</title>
+      <link>https://www.kronosfusionenergy.com/news/de-risking-register-methodology</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/de-risking-register-methodology</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The paper explains how a fusion program turns into a set of individually checkable claims, and how an open gate gets named rather than hidden.</description>
+    </item>
     <item>
       <title>Kronos Publishes Reproducibility and Open-Evaluator Methods Paper</title>
       <link>https://www.kronosfusionenergy.com/news/reproducibility-and-open-evaluator-method</link>

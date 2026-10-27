@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/neutron-fluence-and-shielding-budget-for-the-breeder-core</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
+      <news:title>Neutron Fluence and Shielding Budget for the Breeder Core — Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/thermal-management-across-the-cryo-plasma-gradient</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
+      <news:title>Thermal Management Across the Cryo–Plasma Gradient: Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/metrovolt-data-center-burner-configuration</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes MetroVolt Data-Center Burner Configuration Paper</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/aegis-defense-burner-configuration</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
+      <news:title>Aegis defense-burner configuration paper published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/de-risking-register-methodology</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Methodology Paper Behind Its De-Risking Register</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/reproducibility-and-open-evaluator-method</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
       <news:title>Magnet Quench and Protection Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/mhd-stability-and-operating-limits</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes MHD Stability and Operating-Limits Paper</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/edge-and-scrape-off-layer-transport</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
-      <news:title>Edge and scrape-off-layer transport paper published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/gyrokinetic-turbulence-paper-cgyro</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Gyrokinetic Turbulence Paper Behind Its CGYRO Results</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/digital-twin-architecture-and-validation</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Digital-Twin Architecture and Validation Paper</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/load-following-and-grid-integration</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-25T06:00:00-07:00</news:publication_date>
-      <news:title>Load-Following and Grid Integration Paper Published</news:title>
     </news:news>
   </url>
 </urlset>
