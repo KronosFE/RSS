@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 12:24:42 -0700</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:29:47 -0700</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Feeding the burn: pellet-fueling paper published for Hyperion</title>
+      <link>https://www.kronosfusionenergy.com/news/feeding-the-burn-pellet-fueling</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/feeding-the-burn-pellet-fueling</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published how it plans to keep the breeder's plasma density in range over a pulse, replacing fuel at the rate the core actually consumes it.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Paper on Sustaining the Breeder's Plasma Current</title>
+      <link>https://www.kronosfusionenergy.com/news/sustaining-the-plasma-current-current-drive</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/sustaining-the-plasma-current-current-drive</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Holding 9.66 megamperes through a pulse takes more than reaching it once, and the current-drive paper documents how Hyperion does it.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Pressure-Performance and Beta-Limit Paper, Names One Open Item</title>
+      <link>https://www.kronosfusionenergy.com/news/pressure-performance-and-the-beta-limit</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/pressure-performance-and-the-beta-limit</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>How hard the breeder's plasma can be pressurized before instabilities set the limit is now a published paper, and it does not hide the one beta figure Kronos hasn't yet resolved.</description>
+    </item>
+    <item>
+      <title>First-Wall and Divertor Survivability Under Steady-State Load — Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/first-wall-and-divertor-survivability-under-steady-state</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/first-wall-and-divertor-survivability-under-steady-state</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>A new paper shows how the breeder's negative-triangularity shaping keeps first-wall and divertor loading steady rather than pulsed, the difference between components rated for years and components rated for one transient.</description>
+    </item>
+    <item>
+      <title>One Paper Compares Radiation Activation Across Both the Breeder and the Burner</title>
+      <link>https://www.kronosfusionenergy.com/news/activation-and-materials-lifetime-across-both-machines</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/activation-and-materials-lifetime-across-both-machines</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The breeder runs full D-T fusion; the burner holds its neutron fraction to 5.44%. A new paper works the activation and materials-lifetime question for both machines side by side.</description>
+    </item>
     <item>
       <title>Neutron Fluence and Shielding Budget for the Breeder Core — Paper Published</title>
       <link>https://www.kronosfusionenergy.com/news/neutron-fluence-and-shielding-budget-for-the-breeder-core</link>

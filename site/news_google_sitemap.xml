@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/feeding-the-burn-pellet-fueling</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
+      <news:title>Feeding the burn: pellet-fueling paper published for Hyperion</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/sustaining-the-plasma-current-current-drive</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Paper on Sustaining the Breeder's Plasma Current</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/pressure-performance-and-the-beta-limit</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Pressure-Performance and Beta-Limit Paper, Names One Open Item</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/first-wall-and-divertor-survivability-under-steady-state</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
+      <news:title>First-Wall and Divertor Survivability Under Steady-State Load — Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/activation-and-materials-lifetime-across-both-machines</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
+      <news:title>One Paper Compares Radiation Activation Across Both the Breeder and the Burner</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/neutron-fluence-and-shielding-budget-for-the-breeder-core</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Publishes Methodology Paper Behind Its De-Risking Register</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/reproducibility-and-open-evaluator-method</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Reproducibility and Open-Evaluator Methods Paper</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/medical-isotope-pathway</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
-      <news:title>Medical-Isotope Pathway Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/isotope-production-and-neutron-services</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
-      <news:title>Isotope Production and Neutron-Services Paper Published for the Breeder Platform</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/fuel-cycle-staging-strategy</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
-      <news:title>Fuel-Cycle Staging Strategy Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/magnet-quench-and-protection</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-26T06:00:00-07:00</news:publication_date>
-      <news:title>Magnet Quench and Protection Paper Published</news:title>
     </news:news>
   </url>
 </urlset>
