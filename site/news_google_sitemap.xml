@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/the-safety-case-for-a-low-neutron-burner</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
+      <news:title>The Safety Case for a Low-Neutron Burner — Paper Published</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/checking-our-codes-against-the-field-s-verification-paper</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
+      <news:title>Verification Paper Checks Kronos's Own Codes Against the Field's Established Tools</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/the-modeling-stack-behind-every-design-claim-architecture</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
+      <news:title>The Modeling Stack Behind Every Design Claim — Architecture Paper</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/proof-before-the-ai-touches-plasma-control-validation</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
+      <news:title>Proof Before the AI Touches Plasma: Control-Validation Methodology</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/turning-plasma-into-data-the-diagnostics-suite-paper</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Diagnostics Suite Paper, Turning Plasma Into Data</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/feeding-the-burn-pellet-fueling</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
       <news:title>One Paper Compares Radiation Activation Across Both the Breeder and the Burner</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/neutron-fluence-and-shielding-budget-for-the-breeder-core</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
-      <news:title>Neutron Fluence and Shielding Budget for the Breeder Core — Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/thermal-management-across-the-cryo-plasma-gradient</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
-      <news:title>Thermal Management Across the Cryo–Plasma Gradient: Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/metrovolt-data-center-burner-configuration</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes MetroVolt Data-Center Burner Configuration Paper</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/aegis-defense-burner-configuration</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
-      <news:title>Aegis defense-burner configuration paper published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/de-risking-register-methodology</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-27T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Methodology Paper Behind Its De-Risking Register</news:title>
     </news:news>
   </url>
 </urlset>

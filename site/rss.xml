@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 12:29:47 -0700</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:34:57 -0700</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>The Safety Case for a Low-Neutron Burner — Paper Published</title>
+      <link>https://www.kronosfusionenergy.com/news/the-safety-case-for-a-low-neutron-burner</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/the-safety-case-for-a-low-neutron-burner</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published the formal safety case for its D-³He burner, grounded in fusion's inherent shutdown property and an aneutronic-dominant reaction that keeps the neutron fraction to 5.44%.</description>
+    </item>
+    <item>
+      <title>Verification Paper Checks Kronos's Own Codes Against the Field's Established Tools</title>
+      <link>https://www.kronosfusionenergy.com/news/checking-our-codes-against-the-field-s-verification-paper</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/checking-our-codes-against-the-field-s-verification-paper</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The negative-triangularity confinement claim was already benchmarked against nonlinear CGYRO — a new paper extends that same external cross-checking across the rest of the modeling stack.</description>
+    </item>
+    <item>
+      <title>The Modeling Stack Behind Every Design Claim — Architecture Paper</title>
+      <link>https://www.kronosfusionenergy.com/news/the-modeling-stack-behind-every-design-claim-architecture</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/the-modeling-stack-behind-every-design-claim-architecture</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has documented, end to end, which code does which job and how results move between stages, the architecture underneath every number the company has frozen so far.</description>
+    </item>
+    <item>
+      <title>Proof Before the AI Touches Plasma: Control-Validation Methodology</title>
+      <link>https://www.kronosfusionenergy.com/news/proof-before-the-ai-touches-plasma-control-validation</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/proof-before-the-ai-touches-plasma-control-validation</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos requires any learned control policy to clear a hard safety clamp before it can act near a live plasma, and the clamp held violations to zero in testing.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Diagnostics Suite Paper, Turning Plasma Into Data</title>
+      <link>https://www.kronosfusionenergy.com/news/turning-plasma-into-data-the-diagnostics-suite-paper</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/turning-plasma-into-data-the-diagnostics-suite-paper</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The sensing layer that control and every other subsystem depends on is documented in full, with NV-diamond magnetometry confirmed to a specific sensitivity figure.</description>
+    </item>
     <item>
       <title>Feeding the burn: pellet-fueling paper published for Hyperion</title>
       <link>https://www.kronosfusionenergy.com/news/feeding-the-burn-pellet-fueling</link>
