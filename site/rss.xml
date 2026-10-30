@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 12:34:57 -0700</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:17:07 -0700</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,46 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Turbulent-Transport Run Data Documented as a Standalone Descriptor</title>
+      <link>https://www.kronosfusionenergy.com/news/turbulent-transport-run-data-documented-as-a-standalone</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/turbulent-transport-run-data-documented-as-a-standalone</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has released the run-level detail behind its negative-triangularity confinement claim, covering the specific gyrokinetic simulations rather than just their conclusions.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Standalone Data Descriptor for Blanket Neutronics</title>
+      <link>https://www.kronosfusionenergy.com/news/blanket-neutronics-dataset-documented-as-a-standalone-data</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/blanket-neutronics-dataset-documented-as-a-standalone-data</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Geometry, source terms, and multiplication assumptions behind the breeding blanket are now documented well enough for the underlying neutron-transport runs to be re-derived.</description>
+    </item>
+    <item>
+      <title>A short companion note ties confinement to heating at the frozen design point</title>
+      <link>https://www.kronosfusionenergy.com/news/a-short-companion-note-on-confinement-and-heating</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/a-short-companion-note-on-confinement-and-heating</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Not every Kronos result needs a full paper. This addendum links the confinement-scaling and current-drive work already published, at the breeder's Q = 3.076 operating point.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Site-Level Environmental Characterization Paper</title>
+      <link>https://www.kronosfusionenergy.com/news/site-level-environmental-characterization</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/site-level-environmental-characterization</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>A public-safe look at footprint and land use for a breeder or burner installation stays scoped to characterization, not an impact assessment.</description>
+    </item>
+    <item>
+      <title>Kronos Publishes Waste and Activation Profile Across Its Fleet</title>
+      <link>https://www.kronosfusionenergy.com/news/what-stays-behind-waste-and-activation-profile-across-the</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/what-stays-behind-waste-and-activation-profile-across-the</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Kronos has published a full accounting of what its machines leave behind, not just what they produce while running, comparing the breeder's full neutron output against the burner's low-neutron design.</description>
+    </item>
     <item>
       <title>The Safety Case for a Low-Neutron Burner — Paper Published</title>
       <link>https://www.kronosfusionenergy.com/news/the-safety-case-for-a-low-neutron-burner</link>

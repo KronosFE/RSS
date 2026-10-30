@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/turbulent-transport-run-data-documented-as-a-standalone</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-30T06:00:00-07:00</news:publication_date>
+      <news:title>Turbulent-Transport Run Data Documented as a Standalone Descriptor</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/blanket-neutronics-dataset-documented-as-a-standalone-data</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-30T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Standalone Data Descriptor for Blanket Neutronics</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/a-short-companion-note-on-confinement-and-heating</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-30T06:00:00-07:00</news:publication_date>
+      <news:title>A short companion note ties confinement to heating at the frozen design point</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/site-level-environmental-characterization</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-30T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Site-Level Environmental Characterization Paper</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/what-stays-behind-waste-and-activation-profile-across-the</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-30T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Waste and Activation Profile Across Its Fleet</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/the-safety-case-for-a-low-neutron-burner</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +78,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Publishes Diagnostics Suite Paper, Turning Plasma Into Data</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/feeding-the-burn-pellet-fueling</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
-      <news:title>Feeding the burn: pellet-fueling paper published for Hyperion</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/sustaining-the-plasma-current-current-drive</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Paper on Sustaining the Breeder's Plasma Current</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/pressure-performance-and-the-beta-limit</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Pressure-Performance and Beta-Limit Paper, Names One Open Item</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/first-wall-and-divertor-survivability-under-steady-state</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
-      <news:title>First-Wall and Divertor Survivability Under Steady-State Load — Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/activation-and-materials-lifetime-across-both-machines</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-28T06:00:00-07:00</news:publication_date>
-      <news:title>One Paper Compares Radiation Activation Across Both the Breeder and the Burner</news:title>
     </news:news>
   </url>
 </urlset>
