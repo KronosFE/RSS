@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.kronosfusionenergy.com/news/power-quality-at-the-grid-boundary-direct-dc-interface</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-31T06:00:00-07:00</news:publication_date>
+      <news:title>Kronos Publishes Power-Quality Paper for the Burner's Direct-DC Interface</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/the-work-we-haven-t-closed-named-an-open-gates-companion</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-31T06:00:00-07:00</news:publication_date>
+      <news:title>The Work We Haven't Closed, Named: An Open-Gates Companion Note</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/showing-the-inputs-not-just-the-outputs-an-assumptions-and</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-31T06:00:00-07:00</news:publication_date>
+      <news:title>New Note Shows the Assumptions Behind Kronos's Frozen Design Numbers, Not Just the Numbers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.kronosfusionenergy.com/news/digital-twin-validation-data-documented-as-a-standalone</loc>
+    <news:news>
+      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-10-31T06:00:00-07:00</news:publication_date>
+      <news:title>Digital-Twin Validation Data Documented as a Standalone Descriptor</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.kronosfusionenergy.com/news/turbulent-transport-run-data-documented-as-a-standalone</loc>
     <news:news>
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
@@ -38,46 +70,6 @@
       <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
       <news:publication_date>2026-10-30T06:00:00-07:00</news:publication_date>
       <news:title>Kronos Publishes Waste and Activation Profile Across Its Fleet</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/the-safety-case-for-a-low-neutron-burner</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
-      <news:title>The Safety Case for a Low-Neutron Burner — Paper Published</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/checking-our-codes-against-the-field-s-verification-paper</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
-      <news:title>Verification Paper Checks Kronos's Own Codes Against the Field's Established Tools</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/the-modeling-stack-behind-every-design-claim-architecture</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
-      <news:title>The Modeling Stack Behind Every Design Claim — Architecture Paper</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/proof-before-the-ai-touches-plasma-control-validation</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
-      <news:title>Proof Before the AI Touches Plasma: Control-Validation Methodology</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.kronosfusionenergy.com/news/turning-plasma-into-data-the-diagnostics-suite-paper</loc>
-    <news:news>
-      <news:publication><news:name>Kronos Fusion Energy</news:name><news:language>en</news:language></news:publication>
-      <news:publication_date>2026-10-29T06:00:00-07:00</news:publication_date>
-      <news:title>Kronos Publishes Diagnostics Suite Paper, Turning Plasma Into Data</news:title>
     </news:news>
   </url>
 </urlset>

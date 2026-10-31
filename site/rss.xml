@@ -6,8 +6,8 @@
     <description>News and dated research results from Kronos Fusion Energy, a family-owned American fusion company — each item linked to its published record. Breeder and generator physics, in the open.</description>
     <language>en-us</language>
     <copyright>© 2026 Kronos Fusion Energy</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 12:17:07 -0700</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 06:00:00 -0700</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:29:07 -0700</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 06:00:00 -0700</pubDate>
     <ttl>60</ttl>
     <generator>Kronos build_feed.py</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
@@ -18,6 +18,38 @@
       <title>Kronos Fusion Energy — News</title>
       <link>https://www.kronosfusionenergy.com/news</link>
     </image>
+    <item>
+      <title>Kronos Publishes Power-Quality Paper for the Burner's Direct-DC Interface</title>
+      <link>https://www.kronosfusionenergy.com/news/power-quality-at-the-grid-boundary-direct-dc-interface</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/power-quality-at-the-grid-boundary-direct-dc-interface</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Skipping a thermal cycle changes what shows up at the boundary between the burner and whatever it powers; Kronos has now published how that direct-DC interface is conditioned for a data-center or forward-base load.</description>
+    </item>
+    <item>
+      <title>The Work We Haven't Closed, Named: An Open-Gates Companion Note</title>
+      <link>https://www.kronosfusionenergy.com/news/the-work-we-haven-t-closed-named-an-open-gates-companion</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/the-work-we-haven-t-closed-named-an-open-gates-companion</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>Alongside its closed gates, Kronos publishes a companion note naming what hasn't resolved yet — a sensor-tolerance gap, a structural margin still to recover, and an unresolved stability comparison — plainly and without rounding them away.</description>
+    </item>
+    <item>
+      <title>New Note Shows the Assumptions Behind Kronos's Frozen Design Numbers, Not Just the Numbers</title>
+      <link>https://www.kronosfusionenergy.com/news/showing-the-inputs-not-just-the-outputs-an-assumptions-and</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/showing-the-inputs-not-just-the-outputs-an-assumptions-and</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>A companion document lays out how key inputs were chosen and how sensitive the program's headline figures are to reasonable variation in them.</description>
+    </item>
+    <item>
+      <title>Digital-Twin Validation Data Documented as a Standalone Descriptor</title>
+      <link>https://www.kronosfusionenergy.com/news/digital-twin-validation-data-documented-as-a-standalone</link>
+      <guid isPermaLink="true">https://www.kronosfusionenergy.com/news/digital-twin-validation-data-documented-as-a-standalone</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 -0700</pubDate>
+      <category>Paper Update</category>
+      <description>The dataset Kronos uses to check its digital twin against physics codes and benchmarks now has its own published descriptor, so the check itself is on the record, not just the claim that it happened.</description>
+    </item>
     <item>
       <title>Turbulent-Transport Run Data Documented as a Standalone Descriptor</title>
       <link>https://www.kronosfusionenergy.com/news/turbulent-transport-run-data-documented-as-a-standalone</link>
